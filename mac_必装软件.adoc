@@ -1,0 +1,75 @@
+
+= mac 必装软件
+:toc:
+
+---
+
+== 最重要
+
+==== 像win鼠标一样流畅 -> Mos
+
+https://mos.caldis.me/
+
+---
+
+==== 在任务栏上, 显示: 网速, 内存占用, 硬盘剩余空间  -> iStat Menus
+
+
+---
+
+==== 让 mac 支持读取 NTFS的移动硬盘, u盘 -> NTFS for mac
+
+
+---
+
+==== 截图 -> Snipaste
+
+https://www.snipaste.com/download.html
+
+---
+
+==== 快速搜索任何文件 -> Alfred
+
+https://www.alfredapp.com/
+
+
+---
+
+==== iphone管理 -> 爱思助手
+
+https://www.i4.cn/pros.html?utm_source=baidu_mac&tm_medium=cpc#B_vid=8004174510017797340
+
+---
+
+==== 视频播放 -> IINA
+
+https://iina.io/
+
+---
+
+== 程序开发
+
+- PyCharm
+- PhpStorm
+- vscode
+
+- Parallels Desktop  // 虚拟机, 能安装win10
+
+---
+
+== 其他
+
+- 隐藏任务栏图标 -> Vanilla
+- 微信 -> WeChat
+- 微软 OneNote
+- 网件精灵 -> NETGEARGenie
+- 迅雷
+- 有道词典
+- 网易云音乐
+- Adobe Photoshop
+
+
+
+
+
+

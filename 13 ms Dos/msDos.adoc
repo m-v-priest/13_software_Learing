@@ -1,0 +1,32 @@
+
+= microsoft DOS
+:toc:
+
+---
+
+== 移动文件 -> move A B
+
+....
+move a.txt d:\test
+//把当前目录下的a.txt 移动到d:\test目录下
+....
+
+---
+
+== 删除非空目录 -> rmdir /s 非空目录路径
+
+....
+rmdir /s d:\3
+//删除d:\3 文件夹, 该文件夹为非空目录
+....
+
+rmdir命令有两个参数:
+
+- /Q 安静模式
+- /S 删除目录树时不要求确认，
+
+如：rmdir /s /q dirpath
+
+---
+
+
