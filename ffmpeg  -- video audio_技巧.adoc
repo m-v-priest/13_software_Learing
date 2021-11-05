@@ -47,4 +47,27 @@ ffmpeg -i "filename.avi" -c copy "filename.mp4" +
 
 ---
 
+== 提取音频
 
+[cols="1a,1a" options="autowidth"]
+|===
+|Header 1 |Header 2
+
+|ffmpeg -i D:\media\test.mp4 -acodec copy -vn D:\media\output.aac
+|- 默认mp4的audio codec是aac
+|===
+
+---
+
+== 切割视频
+
+[cols="1a,1a" options="autowidth"]
+|===
+|Header 1 |Header 2
+
+|ffmpeg -ss 00:00:15 -t 00:00:05 -i input.mp4 -vcodec copy -acodec copy output.mp4
+|- -ss表示从哪个时间点, 开始切割
+- -t表示要切多少秒(指切出的视频的总时长)。本例是切5秒钟出来。
+|===
+
+---
