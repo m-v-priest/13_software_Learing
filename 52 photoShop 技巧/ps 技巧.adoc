@@ -1,0 +1,16 @@
+
+= ps 技巧
+
+== 让ps 能打开 webp 格式 -> WebPShop.8bi
+
+https://helpx.adobe.com/cn/photoshop/kb/support-webp-image-format.html
+
+
+把 WebPShop.8bi 下载下来后, 存放地址:
+
+Windows：\Program Files\Common Files\Adobe\Plug-Ins\CC
+
+macOS：/资源库/Application Support/Adobe/Plug-Ins/CC
+
+---
+
