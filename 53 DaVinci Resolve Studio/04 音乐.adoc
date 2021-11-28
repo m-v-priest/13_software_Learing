@@ -1,0 +1,23 @@
+
+= DaVinci 音乐
+:toc:
+:sectnums:
+
+---
+
+== 音效素材库
+
+[cols="1a,2a"]
+|===
+|Header 1 |Header 2
+
+|在时间线模块, 你的音效, 可以放在"音效素材库"中
+|image:img/026.png[]
+
+image:img/025.png[]
+|===
+
+
+
+---
+
