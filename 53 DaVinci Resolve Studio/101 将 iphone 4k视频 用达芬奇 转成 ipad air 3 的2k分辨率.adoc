@@ -1,0 +1,25 @@
+
+= 将 iphone 4k视频 用达芬奇 转成 ipad air 3 的2k分辨率
+:sectnums:
+:toclevels:
+:toc:
+
+---
+
+== 达芬奇中的渲染导出, 设置如下
+
+首先, 在 potPlayer中,  查看你 iphone 4k 视频的"位率"
+
+image:img/102.jpg[]
+
+然后, 在达芬奇中, 也设置这个值, 不要超过它.
+
+image:img/103.jpg[]
+
+---
+
+
+
+
+
+

@@ -29,7 +29,7 @@ http://ffmpeg.org/download.html#build-windows
 
 |win 安装
 |- 解压上面下载的7z压缩包, 进入 bin 目录
-- 把 bin目录的路径, 拷贝下来. 进入windows 的 控制面板 -> 搜索"系统"关键词 -> 进入"系统属性" -> 环境变量 -> 编辑 path -> "新建", 将ffmpeg 的 bin目录的路径拷贝进去.
+- 把 bin目录的路径, 拷贝下来. 进入windows 的 控制面板 -> 搜索"系统"关键词 -> 进入"(高级系统设置)系统属性" -> 环境变量 -> 编辑 path -> "新建", 将ffmpeg 的 bin目录的路径拷贝进去.
 
 |如何验证是否安装成功?
 |打开dos命令提示符窗口。输入命令 :  ffmpeg –version
@@ -168,6 +168,10 @@ image:img/001.png[]
 ---
 
 == 将 iphone 拍的 4k 视频, 转成 2k 分辨率(适应 ipad air 3 屏幕分辨率), h.264编码格式, 并且切割出 特定时间段.
+
+....
+ffmpeg -i F:\+++" "周喆韬\2022.4.16\2022_04_16_09_26_IMG_0552.MOV  -ss 00:25:33  -t 00:04:13   -s 2048x1152   -c:v libx264  -preset veryfast  -crf 18  -acodec copy  C:\zzt\压缩" "ipad专用\output.mp4  // 如果文件名中有空格, 在cmd中, 需要用" "双引号把空格包起来.
+....
 
 ....
 ffmpeg
