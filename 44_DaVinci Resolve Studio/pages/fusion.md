@@ -47,6 +47,7 @@
 	- luma keyer, 就是一个"亮度抠像节点"
 	- ![image.png](../assets/image_1660473113237_0.png)
 - 案例2
+  collapsed:: true
 	- ![image.png](../assets/image_1660474323661_0.png)
 	- ![image.png](../assets/image_1660474360500_0.png)
 	- ![image.png](../assets/image_1660474484420_0.png)
