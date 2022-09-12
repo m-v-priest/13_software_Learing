@@ -109,6 +109,10 @@
 	- 裁剪每一个图层中的片段, 在轨道时间上的位置
 	  collapsed:: true
 		- ![image.png](../assets/image_1662977272755_0.png)
+	- 裁剪时, 保持片段的入点不变(如果你片段里有动画的话, 一定要保持入点不被蒙版裁掉). -> 按 alt + 伸缩片段的头部位置
+	  background-color:: #793e3e
+	  collapsed:: true
+		- ![image.png](../assets/image_1662982795749_0.png)
 	- 将ae中的图层, 排序翻转过来, 最上面的图层到最下面, 最下面的图层到最上面
 	  collapsed:: true
 		- 按shift + 从下往上选中所有图层, 再ctrl+c,  再ctrl+v
