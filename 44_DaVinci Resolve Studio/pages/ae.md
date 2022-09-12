@@ -97,6 +97,12 @@
 		- ![image.png](../assets/image_1662797722734_0.png)
 		-
 		-
+	- 让gif 素材, 无限循环
+	  collapsed:: true
+		- gif素材, 默认只会运行一次, 要让它无限循环, 就要如下设置
+		- ![image.png](../assets/image_1662983325764_0.png)
+		- ![image.png](../assets/image_1662983389477_0.png)
+		-
 	- ---
 - 图层操作
 	- 独显示某个图层, 其他的图层中的元素, 都暂时在画布上隐藏掉
