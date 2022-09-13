@@ -5,7 +5,10 @@
 	  collapsed:: true
 		- ![image.png](../assets/image_1663043574904_0.png)
 		-
+- 平滑切换
+  collapsed:: true
 	- 平滑切换 : 可以利用这个功能, 做位移时"近大远小"的视差动画
+	  collapsed:: true
 		- ![image.png](../assets/image_1663044763909_0.png)
 		- ![image.png](../assets/image_1663044986996_0.png)
 		- 色块与线条的动画变换, 依然很酷
