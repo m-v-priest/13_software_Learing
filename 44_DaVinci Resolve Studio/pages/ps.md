@@ -109,6 +109,32 @@
 		- 用这个方法, 我实验了其他几张, 效果极好
 		- ![image.png](../assets/image_1663469019385_0.png)
 		- ---
+	- 色调移植 -- 用于肤色移植
+	- 自动获取人脸肤色选区
+	  background-color:: #793e3e
+	  collapsed:: true
+		- ![image.png](../assets/image_1663504011405_0.png)
+		- 选择"肤色", 和"检测人脸"
+		- ![image.png](../assets/image_1663504052721_0.png)
+		- 然后, 在保持肤色选区状态下, 新建曲线, 就能将选区应用到曲线层的蒙版上
+		- ![image.png](../assets/image_1663504149965_0.png)
+		- 我们再新建一个曲线, 就能来调整肤色颜色了
+		- ![image.png](../assets/image_1663504272101_0.png)
+		- ![image.png](../assets/image_1663504429648_0.png)
+	- 获取中间调的颜色
+	  collapsed:: true
+		- 一张图, 可以很容易看出最亮的颜色, 和最暗的颜色, 但中间调的颜色, 怎么得到呢?
+		- 菜单"选择" -> 色彩范围
+		- ![image.png](../assets/image_1663496529464_0.png)
+		- 然后选"中间调", 就能选出中间调的色彩区域
+		- ![image.png](../assets/image_1663496592652_0.png)
+		- 确定后, 对选区按 ctrl+j, 把它复制出一层
+		- ![image.png](../assets/image_1663500137089_0.png)
+		- 然后将该层 模糊 -> 平均
+		- ![image.png](../assets/image_1663500189053_0.png)
+		- ![image.png](../assets/image_1663500220386_0.png)
+		-
+		-
 	- 让两张图色调统一
 	  collapsed:: true
 		- 用人工智能中的 "色彩转换"
@@ -187,6 +213,8 @@
   background-color:: #793e3e
   collapsed:: true
 	- ![image.png](../assets/image_1663469820475_0.png)
+-
+-
 - ---
 - 人像
   collapsed:: true
@@ -294,3 +322,18 @@
 	-
 	-
 -
+- ---
+- 图案填充 -> 脚本
+	- 脚本里面, 有各种模式
+	- 随机填充
+		- ![image.png](../assets/image_1663506635435_0.png)
+		- ![image.png](../assets/image_1663507627479_0.png){:height 217, :width 331}
+		- 如果我们选"随机填充"的话, 还有各种参数可以设置
+		- ![image.png](../assets/image_1663506723481_0.png)
+	- 如果我们选"沿路径置入"的话
+	  collapsed:: true
+		- ![image.png](../assets/image_1663506801948_0.png)
+		- ![image.png](../assets/image_1663506943299_0.png)
+	-
+		-
+	-
