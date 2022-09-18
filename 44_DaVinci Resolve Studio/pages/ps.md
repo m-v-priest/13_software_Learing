@@ -1,6 +1,8 @@
 - 三级调色步骤
+  collapsed:: true
 	- ![image.png](../assets/image_1663153076321_0.png)
 - 先调明暗, 再调色彩
+  collapsed:: true
 	- 明暗调整:
 	  collapsed:: true
 		- 用camera raw :  白(高<-->白);  黑(黑<-->阴)
@@ -28,9 +30,11 @@
 	- ![image.png](../assets/image_1663156890492_0.png) ![image.png](../assets/image_1663156926115_0.png)
 	-
 - 颜色直方图
+  collapsed:: true
 	- ![image.png](../assets/image_1663158920895_0.png)
 -
-- 调色
+-
+- 改成任何颜色
 	- ★ 改成任何颜色
 	  background-color:: #793e3e
 	  collapsed:: true
@@ -43,6 +47,75 @@
 		- ![image.png](../assets/image_1663068105604_0.png)
 		-
 		-
+	- lab改色模式
+	  background-color:: #793e3e
+	  collapsed:: true
+		- lab色彩模式下的图, 曲线有三个调整维度: 如下.   
+		  -> a通道中, 曲线往上拉, 就会偏红; 曲线往下拉, 就会偏绿.
+		  -> b通道中, 曲线往上拉, 就会偏黄; 往下, 就会偏蓝
+		- ![image.png](../assets/image_1663461348250_0.png)
+		- ![image.png](../assets/image_1663461172696_0.png)
+		  id:: 63266725-83f6-4c93-8400-b23778723246
+		- ![image.png](../assets/image_1663461322194_0.png)
+		- 比如, 我们要把图片中的粉色改成绿色,
+		- ![image.png](../assets/image_1663461658844_0.png)
+		- 用吸管"颜色取样器工具", 选中绿色和粉色, 就能在"信息"面板中, 看到这两个lab数值
+		- ![image.png](../assets/image_1663461737877_0.png)
+		- 注意: 下图中的选择粉色取样点, 要按 **ctrl+ shift+左键**, 来点击粉色的取样点, 才能在曲线的三个通道上(即 l, a, b通道上), 都定位住这个粉色的点.
+		-
+		- 新建一个曲线工具, 用蒙版, 将粉色区域蒙出来.
+		  然后用手指按钮, 来点击图片上你粉色取样点的位置
+		- ![image.png](../assets/image_1663461964009_0.png)
+		- ![image.png](../assets/image_1663462214346_0.png)
+		- 首先, 在明度通道下, 把控制粉色颜色的 曲线的"明度通道", 其输出值, 调成和 绿色 的 "明度通道"的输出值, 一样的数字. 其他两个通道同样如此操作.
+		- 即, 如下图, 把右侧的 三个 l,a,b 的数值, 改成左侧的 三个数值.
+		- ![image.png](../assets/image_1663464787152_0.png)
+		- ![image.png](../assets/image_1663464883885_0.png)
+		- ![image.png](../assets/image_1663464915138_0.png)
+		- ![image.png](../assets/image_1663464997893_0.png)
+		- 最后, 再把图片从lab模式, 改回rgb模式
+		-
+		-
+		-
+		-
+		-
+		-
+	-
+- 色调移植
+	- ★ 色调移植
+	  background-color:: #793e3e
+	  collapsed:: true
+		- 比如, 我们要将左图, 改成有图的绿色氛围. 就先将绿色图, 导出web格式
+		- ![image.png](../assets/image_1663467019816_0.png)
+		- 将颜色数量改成3, 然后将这个颜色表, 存储下来
+		- ![image.png](../assets/image_1663467137689_0.png)
+		- 然后, 对你的原始照片, 导入那个3色色板
+		- ![image.png](../assets/image_1663467246352_0.png)
+		- ![image.png](../assets/image_1663467308490_0.png)
+		- 新建一个曲线层, 双击"黑场吸管", 来吸取 三色色板中, 最深的那个颜色
+		- ![image.png](../assets/image_1663468102512_0.png)
+		- 选"否"
+		- ![image.png](../assets/image_1663468149528_0.png)
+		- 灰场, 选三色表中, 亮度居中的那个颜色
+		- ![image.png](../assets/image_1663468268472_0.png)
+		- 白场, 选三色表中, 最亮的那个颜色
+		- ![image.png](../assets/image_1663468305926_0.png)
+		- 我们再回到"黑场吸管", 点击原始照片中, 最暗的区域
+		- ![image.png](../assets/image_1663468343933_0.png)
+		- 灰场吸管, 点击原始照片中, 中间调的区域,  rgb数值大约是 128,128,128处的
+		- ![image.png](../assets/image_1663468366176_0.png)
+		- 白场吸管, 点击原始照片中, 最亮的区域
+		- ![image.png](../assets/image_1663468407187_0.png)
+		- 用这个方法, 我实验了其他几张, 效果极好
+		- ![image.png](../assets/image_1663469019385_0.png)
+		- ---
+	- 让两张图色调统一
+	  collapsed:: true
+		- 用人工智能中的 "色彩转换"
+		  collapsed:: true
+			- ![image.png](../assets/image_1663075055373_0.png)
+	-
+- 单色调
 	- 单色调
 	  background-color:: #793e3e
 	  collapsed:: true
@@ -65,6 +138,8 @@
 	  collapsed:: true
 		- ![image.png](../assets/image_1663070542489_0.png)
 		- ![image.png](../assets/image_1663070739667_0.png)
+	-
+- 双色调
 	- 双色调 : 添加 "渐变映射"层即可
 	  background-color:: #793e3e
 	  collapsed:: true
@@ -73,16 +148,149 @@
 			- ![image.png](../assets/image_1663071988256_0.png)
 			- ![image.png](../assets/image_1663072005244_0.png)
 			-
-	- 让两张图色调统一
-		- 用人工智能中的 "色彩转换"
-		  collapsed:: true
-			- ![image.png](../assets/image_1663075055373_0.png)
+	-
+- 黑色调
+	- 打造黑色调 -> 适用于本来就有颜色的物体
+	  background-color:: #793e3e
+	  collapsed:: true
+		- 比如, 我们要把红色的衣服改成黑色, 先用选取选中红色衣服的范围
+		- ![image.png](../assets/image_1663470565911_0.png)
+		- 然后, 新建一个"黑白"层
+		- ![image.png](../assets/image_1663470610301_0.png)
+		- ![image.png](../assets/image_1663470673523_0.png)
+		-
+	- 打造黑色调 -> 适用于白色物体
+	  background-color:: #793e3e
+	  collapsed:: true
+		- 但是, 黑色层, 对白色物体无效. 如下图, 白色的衣服, 无法用上面的方法, 来改成黑色的衣服
+		- ![image.png](../assets/image_1663471052262_0.png)
+		- 我们换另一种方法来做: 先新建一个曲线, 图层模式改成"明度"
+		- ![image.png](../assets/image_1663471125572_0.png)
+		- ![image.png](../assets/image_1663471246761_0.png)
+		- ---
+		-
+	- 打造黑色色调 -> 用渐变映射来做, 就是黑白渐变
+	  background-color:: #793e3e
+	  collapsed:: true
+		- ![image.png](../assets/image_1663471884779_0.png)
+		- ![image.png](../assets/image_1663472232526_0.png)
+	-
+- 其他
 	- 色彩: 色相H, 饱和度S, 明度B
 	  collapsed:: true
 		- ![image.png](../assets/image_1662636321704_0.png)
 		- ![image.png](../assets/image_1662636631638_0.png)
 		-
 	- [[让蓝天通透]]
+-
+- 合并所有效果图层, 到一个新图层上 -> 选中多个图层,  ctrl+shift+alt+ e
+  background-color:: #793e3e
+  collapsed:: true
+	- ![image.png](../assets/image_1663469820475_0.png)
+- ---
+- 人像
+  collapsed:: true
+	- 让无层次的脸, 更有光影体积感
+	  background-color:: #793e3e
+		- 常规做法 1
+		  collapsed:: true
+			- 新建一个空白层, 模式改成"叠加", 或 "柔光"
+				- ![image.png](../assets/image_1663402658762_0.png)
+			- 然后使用前景色为白色 的画笔, 透明度调小一点, 在脸上擦出高光
+				- ![image.png](../assets/image_1663402729532_0.png)
+			- ---
+		- 常规做法2
+		  collapsed:: true
+			- 先控制亮面
+			  collapsed:: true
+				- 新建一个曲线层, 调亮
+				- ![image.png](../assets/image_1663409325097_0.png)
+				- 对该曲线层, 右键, 混合选项
+				- ![image.png](../assets/image_1663409347670_0.png)
+				- ![image.png](../assets/image_1663409394919_0.png)
+				- ![image.png](../assets/image_1663409421020_0.png)
+				- 对曲线层, 按 citrl + i 反向, 用画笔, 前景色为白色, 把人像的高光面擦出来
+				- ![image.png](../assets/image_1663409508901_0.png)
+			- 再控制暗面
+			  collapsed:: true
+				- ![image.png](../assets/image_1663409649663_0.png)
+				- ![image.png](../assets/image_1663409701194_0.png)
+				- ![image.png](../assets/image_1663409736815_0.png)
+				- ![image.png](../assets/image_1663409883332_0.png)
+			- 来对比一下
+			- ![image.png](../assets/image_1663409924774_0.png)
+			-
+			- ---
+		- 方法3
+		  collapsed:: true
+			- 先 ctrl+j, 复制一层,  再ctrl+u, 去掉人像的饱和度
+			- ![image.png](../assets/image_1663402922277_0.png)
+			- 先来得到人像的"亮面"
+			  collapsed:: true
+				- 对无饱和度的图层, 再ctrl+j 复制一层 , 图层模式改成" 颜色加深"
+				- ![image.png](../assets/image_1663403024621_0.png)
+				- ![image.png](../assets/image_1663403136853_0.png)
+				- 新建一个曲线层, 选中该曲线层的蒙版,  图像菜单 -> 应用图像
+				- ![image.png](../assets/image_1663403336322_0.png)
+				- 就保留默认的"正片叠底"就行了
+				- ![image.png](../assets/image_1663403367060_0.png)
+				- 确定后, 人像的高亮部分, 就被曲线层, 印刻下来了
+				- ![image.png](../assets/image_1663403392270_0.png)
+				- 为了更亮一点点, 我们再复制出一个去饱和度的图层, 再添加一个曲线
+				- ![image.png](../assets/image_1663403811454_0.png)
+				- 同样执行" 应用图像"
+				- ![image.png](../assets/image_1663403647017_0.png)
+				- 我们先给这两个控制"亮面"的曲线, 改个名字
+				- ![image.png](../assets/image_1663403736509_0.png)
+			- 然后, 我们再来得到"暗面"
+			  collapsed:: true
+				- 将最上层的灰度图层的模式, 改成"颜色减淡", 并关掉下面一个灰色图层
+				- ![image.png](../assets/image_1663404034335_0.png)
+				- 然后新建一个曲线, 改名"暗1", 同样"应用图像"
+				- ![image.png](../assets/image_1663404187377_0.png)
+				- 但注意: 我们要勾选"反向", 因为我们要得到的是图像的"暗部"
+				- ![image.png](../assets/image_1663404221301_0.png)
+				- ![image.png](../assets/image_1663404310976_0.png)
+				- 蒙版中, 黑色表示透明, 白色表示有内容的部分, 即原画面的"暗部"
+			- 现在, 灰色层就不需要了, 我们直接删掉所有灰色层. 就直接来控制曲线层.
+				- ![image.png](../assets/image_1663404520415_0.png)
+				- 我们来对比一下, 原片 和 调整曲线后的图像
+				- 原片:
+					- ![image.png](../assets/image_1663404605855_0.png)
+				- 调整曲线后的:
+					- ![image.png](../assets/image_1663404630282_0.png)
+				- 再来对比一下, 你不用亮面, 暗面的蒙版, 而是简单粗暴直接建个曲线来拉明暗的. 你可以看到, 不用蒙版, 而直接拉曲线, 人物脸上的高光点不明显. 而且还会导致画面的饱和度增加
+					- ![image.png](../assets/image_1663404673284_0.png)
+				- 对于用蒙版来做的, 如果效果不强烈, 我们可以把这些曲线打包后, 再复制一层包.  如果觉得饱和度变低了, 我们再添加饱和度层, 来调高饱和度.
+					- ![image.png](../assets/image_1663404893714_0.png)
+				- 再来对比一下:
+				- ![image.png](../assets/image_1663405118435_0.png)
+			- ---
+		- 推荐 : 方法4 √
+		  collapsed:: true
+			- 先把原图 ctrl+j 复制一层
+			- 再添加一个曲线层, 模式改成"滤色"
+			- ![image.png](../assets/image_1663405738967_0.png)
+			- 再新建一个曲线层, 模式改成"正片叠底"
+			- ![image.png](../assets/image_1663405864977_0.png)
+			- 然后, 我们把这两个曲线, 打包在一起, 再给这个组添加个蒙版, 再"应用图像"
+			- ![image.png](../assets/image_1663406069750_0.png)
+			- 参数如下:
+			- ![image.png](../assets/image_1663406100874_0.png)
+			- 然后,我们把"曲线组" 的透明度, 也改成 50%
+			- ![image.png](../assets/image_1663406168467_0.png)
+			- 选中曲线1, 右键 -> 混合选项
+			- ![image.png](../assets/image_1663406246107_0.png)
+			- ![image.png](../assets/image_1663406359083_0.png)
+			- ![image.png](../assets/image_1663406428397_0.png)
+			- 对曲线2, 也是右键 -> 混合选项, 将最下面的滑块的白色部分, 往左拉
+			- ![image.png](../assets/image_1663406506569_0.png)
+			- ![image.png](../assets/image_1663406601973_0.png)
+			- 来对比一下:
+			- ![image.png](../assets/image_1663406707018_0.png)
+			-
 	-
-		-
+	-
+	-
+	-
 -

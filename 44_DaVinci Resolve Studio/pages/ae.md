@@ -3,6 +3,7 @@
 	- https://adobe-extendscript-toolkit.software.informer.com/
 	- ---
 - 编程代码
+  collapsed:: true
 	- 变量
 	  background-color:: #793e3e
 	  collapsed:: true
@@ -217,6 +218,13 @@
 	- 让某图层, 跟着另一个图层一起动画变化
 	  collapsed:: true
 		- ![image.png](../assets/image_1662862090049_0.png)
+	- 插件 autofill 自动生长动画
+		- 使用透明底的图就行, 不用设置关键帧, 使用了autofill 效果后,  按空格就能自动播放动画了. 当然, 你还可以设定"生长"的起始点位置
+		- ![image.png](../assets/image_1663328163641_0.png)
+		- ![image.png](../assets/image_1663328610484_0.png)
+		- 如果你发现, 动画的过程中, 画面不流畅, 一闪一闪的, 就点"重新模拟"
+		- ![image.png](../assets/image_1663330695720_0.png)
+		-
 	- ---
 - 特效效果
 	- 效果: 湍流置换
