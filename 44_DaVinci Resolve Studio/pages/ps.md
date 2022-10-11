@@ -176,6 +176,7 @@
 			-
 	-
 - 黑色调
+  collapsed:: true
 	- 打造黑色调 -> 适用于本来就有颜色的物体
 	  background-color:: #793e3e
 	  collapsed:: true
@@ -324,6 +325,7 @@
 -
 - ---
 - 图案填充 -> 脚本
+  collapsed:: true
 	- 脚本里面, 有各种模式
 	- 随机填充
 		- ![image.png](../assets/image_1663506635435_0.png)
