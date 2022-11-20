@@ -1,7 +1,7 @@
 -
 - [[fusion]]
 -
-- 项目初始设置
+- ### 项目初始设置
 	- 自动备份
 	  collapsed:: true
 		- 在"偏好设置-> 用户-> 项目保存和加载" 中, 可以打开自动备份, 以免软件崩溃文件丢失
@@ -22,6 +22,12 @@
 			- ![image.png](../assets/image_1668846401434_0.png)
 			-
 		-
+	- 图片导入视频后, 有锯齿
+	  collapsed:: true
+		- ![image.png](../assets/image_1668909155153_0.png)
+		- 在高级设置中
+		- ![image.png](../assets/image_1668909170812_0.png)
+		- ![image.png](../assets/image_1668909178685_0.png)
 	- 重新恢复默认界面
 	  background-color:: pink
 	  collapsed:: true
@@ -32,7 +38,7 @@
 		- ![未命名图片.png](../assets/未命名图片_1668775122071_0.png)
 		-
 - ---
-- 最常用功能
+- ### 最常用功能
 	- iphone 4k 视频导入问题
 	  collapsed:: true
 		- 遇到iphone 4k 载入视频是离线媒体的问题, 要安装HEVC解码器
@@ -69,6 +75,18 @@
 	  collapsed:: true
 		- 选中视频, 然后
 		- ![image.png](../assets/image_1668774989980_0.png)
+	- 事后调整项目帧率
+	  background-color:: pink
+	  collapsed:: true
+		- 比如你的视频是60帧, 结果你项目是用30帧做的, 事后才发现, 但已经没法改项目的帧率了.
+		- 现在有一个补救性的办法:
+		- ![image.png](../assets/image_1668906308804_0.png)
+		- 可以单独设置某个新建时间线的帧率
+		- ![image.png](../assets/image_1668906327531_0.png)
+		- ![image.png](../assets/image_1668906359049_0.png)
+		- ![image.png](../assets/image_1668906370765_0.png)
+		- ![image.png](../assets/image_1668906383734_0.png)
+		-
 	- 上下加黑边
 	  background-color:: blue
 	  collapsed:: true
@@ -131,7 +149,41 @@
 			- ![image.png](../assets/image_1668845154380_0.png)
 -
 - ---
-- 选区 & 蒙版
+- ### 字幕
+	- 字幕类型的轨道
+	  collapsed:: true
+		- ![image.png](../assets/image_1668906892903_0.png)
+		- ![image.png](../assets/image_1668906943381_0.png)
+		-
+	- 给字幕加黑色底框
+	  background-color:: blue
+	  collapsed:: true
+		- ![image.png](../assets/image_1668907395357_0.png)
+		- ![image.png](../assets/image_1668907448340_0.png)
+		-
+	- "字幕轨道", 分开单独调整每个字幕的属性
+	  collapsed:: true
+		- 默认状态下, 字幕轨道上的每个字幕, 有统一的位置, 大小, 字体
+		- ![image.png](../assets/image_1668909556516_0.png)
+		- ![image.png](../assets/image_1668909574921_0.png)
+		- 如果你想单独调整每个字幕片段的位置的话, 就
+		- ![image.png](../assets/image_1668909601579_0.png)
+		-
+	- 导出字幕轨道上的字幕
+	  collapsed:: true
+		- ![image.png](../assets/image_1668909630199_0.png)
+		-
+	- 导入字幕
+	  collapsed:: true
+		- ![image.png](../assets/image_1668909660034_0.png)
+	- 导入第三方str字幕
+	  collapsed:: true
+		- ![image.png](../assets/image_1668907513778_0.png)
+		- 也可直接把srt字幕拖到字幕轨道上
+		- ![image.png](../assets/image_1668908242207_0.png)
+		-
+- ---
+- ### 选区 & 蒙版
 	- 选区
 	  collapsed:: true
 		- ![image.png](../assets/image_1668862286212_0.png)
@@ -140,7 +192,98 @@
 	  collapsed:: true
 		- ![image.png](../assets/image_1668773655452_0.png)
 	-
-- 效果
+- ### 效果
+	- #### 文字跟踪
+	  background-color:: red
+	  collapsed:: true
+		- 方法1 : 跟踪
+		  collapsed:: true
+			- 对片段点右键, 新建fusion合成
+			- ![image.png](../assets/image_1668911277702_0.png)
+			- 然后双击该fusion片段进去, **注意, 必须要先进入该片段, 因为下面的追踪方法, 必须在第1帧开始就建立跟踪目标, 不能再中间再建立跟踪目标, 否则方法无效.**
+			- **并且, 要追踪的位置, 不能被遮住!** 否则方法无效
+			- 进入 fusion 面板
+			- ![image.png](../assets/image_1668911315630_0.png)
+			- ![image.png](../assets/image_1668911711566_0.png)
+			- ![image.png](../assets/image_1668911861282_0.png)
+			- ![image.png](../assets/image_1668911924423_0.png)
+			- ![image.png](../assets/image_1668913144297_0.png)
+			- ![image.png](../assets/image_1668912321687_0.png)
+			- ![image.png](../assets/image_1668913213401_0.png)
+			- ![image.png](../assets/image_1668913268626_0.png)
+			- ![image.png](../assets/image_1668913386414_0.png)
+			- ![image.png](../assets/image_1668913446321_0.png)
+			- ![image.png](../assets/image_1668913532280_0.png)
+			- ![image.png](../assets/image_1668913810724_0.png)
+			- ![image.png](../assets/image_1668914351479_0.png)
+			- 然后我们就能在 "transform 节点"上, 来改变"文字节点"的大小和位置了
+			- ![image.png](../assets/image_1668914379822_0.png)
+			- ![image.png](../assets/image_1668914477154_0.png)
+			- ![image.png](../assets/image_1668914508231_0.png)
+			- ![image.png](../assets/image_1668914531088_0.png)
+			- 然后点播放, 就能看到文字跟踪效果
+			- ![image.png](../assets/image_1668942475670_0.png)
+			- 如果要再添加一个跟踪文字, 就
+			- ![image.png](../assets/image_1668943150040_0.png)
+			- ![image.png](../assets/image_1668943230959_0.png)
+			- ![image.png](../assets/image_1668943292317_0.png)
+			- ![image.png](../assets/image_1668943353010_0.png)
+			- ![image.png](../assets/image_1668944157389_0.png)
+			- ![image.png](../assets/image_1668944237676_0.png)
+			-
+		- 文字跟踪 方法2 (不支持文字的动态模糊效果):
+		  collapsed:: true
+			- 把片段, 右键转成 fusion片段. 因为跟踪效果只能在fusion片段里才能做.
+			- ![image.png](../assets/image_1668947070155_0.png)
+			- ![image.png](../assets/image_1668947188069_0.png)
+			- ![image.png](../assets/image_1668947263901_0.png)
+			- ![image.png](../assets/image_1668947351463_0.png)
+			- 下面, 让软件先自动进行路径追踪
+			  id:: 637a25e3-3a3f-409d-9108-ac60e05ebcdb
+				- ![image.png](../assets/image_1668947495643_0.png)
+			- ![image.png](../assets/image_1668947660366_0.png)
+			- ![image.png](../assets/image_1668947829459_0.png)
+			- ![image.png](../assets/image_1668947954799_0.png)
+			- ![image.png](../assets/image_1668948171254_0.png)
+			- ![image.png](../assets/image_1668948258502_0.png)
+			- ![image.png](../assets/image_1668948528791_0.png)
+			- ![image.png](../assets/image_1668948658946_0.png)
+			-
+		- 文字跟踪, 方法3 (支持文字动态模糊效果):
+			- ![image.png](../assets/image_1668948775828_0.png)
+			- 注意: 下图说错了, tracker节点不是新建出来的, 而是之前我们已经做好跟踪路径的. 方法在: ((637a25e3-3a3f-409d-9108-ac60e05ebcdb))
+			- ![image.png](../assets/image_1668948878215_0.png)
+			- ![image.png](../assets/image_1668949169254_0.png)
+			- ![image.png](../assets/image_1668948942530_0.png)
+			- 注意, 下图, 似乎不用大头针按钮也行
+			- ![image.png](../assets/image_1668949680865_0.png)
+			- 大头针, 可以把某个设置界面, 固定在界面上.
+			- 注意, 下图说错了, 不是在坐标输入栏中右键, 而是在"中心"后面的界面空白处右键
+			- ![image.png](../assets/image_1668949837113_0.png)
+			- 通过"表达式", 可以将两个节点中的属性, 进行关联. 相当于是变量了
+			- ![image.png](../assets/image_1668950143146_0.png)
+			- ![image.png](../assets/image_1668950198481_0.png)
+			- ![image.png](../assets/image_1668950309178_0.png)
+			- ![image.png](../assets/image_1668950377491_0.png)
+			- ![image.png](../assets/image_1668950469716_0.png)
+			- ![image.png](../assets/image_1668951430975_0.png)
+			- ![image.png](../assets/image_1668951555156_0.png)
+			- ![image.png](../assets/image_1668951630331_0.png)
+			- ![image.png](../assets/image_1668951754363_0.png)
+			-
+		-
+	- #### 遮罩跟踪
+	  background-color:: pink
+	  collapsed:: true
+		- 方法1 :
+			- 先添加一个串行节点
+			- ![image.png](../assets/image_1668944747763_0.png)
+			- ![image.png](../assets/image_1668944945132_0.png)
+			- ![image.png](../assets/image_1668945294461_0.png)
+			- ![image.png](../assets/image_1668945382227_0.png)
+			- ![image.png](../assets/image_1668945480591_0.png)
+			- ![image.png](../assets/image_1668945823047_0.png)
+			-
 	- 关键帧
 	  collapsed:: true
 		- ![image.png](../assets/image_1668845518636_0.png)
@@ -207,7 +350,7 @@
 		-
 	-
 - ---
-- 调色
+- #### 调色
 	- 一级调色, 二级调色
 	  collapsed:: true
 		- 一级调色: 是对画面整体, 进行颜色调整
@@ -318,7 +461,7 @@
 			- ![image.png](../assets/image_1668846709964_0.png)
 		-
 - ---
-- 节点
+- ### 节点
 	- 节点简介
 	  collapsed:: true
 		- 串行节点, 是后面的节点是站在前面节点的效果的基础上, 来做进一步调整的. 只要前面的节点一动, 后面的节点就会全部受影响.
@@ -402,7 +545,7 @@
 		- ![image.png](../assets/image_1668859320568_0.png)
 		-
 - ---
-- 片段
+- ### 片段
 	- 片段间不吸附了, 怎么办?
 	  collapsed:: true
 		- ![image.png](../assets/image_1668773755392_0.png)
@@ -415,18 +558,18 @@
 	-
 -
 - ---
-- 注释功能
+- ### 注释功能
 	- 标记
 	  collapsed:: true
 		- ![image.png](../assets/image_1668845310061_0.png)
 		- ![image.png](../assets/image_1668845320138_0.png)
 		-
 -
-- 素材
+- ### 素材
 	- 素材管理
 	-
 	-
-- 配音
+- ### 配音
 	- 音效素材库
 	  collapsed:: true
 		- ![image.png](../assets/image_1668844789156_0.png)
@@ -435,12 +578,37 @@
 		-
 		-
 -
-- 输出成品
+- ### 输出成品
 	- 将每个片段输出成独立的文件
 	  collapsed:: true
 		- ![image.png](../assets/image_1668846784316_0.png)
+	- 渲染输出后, 发现成品的颜色和编辑时有偏差
+	  background-color:: blue
+	  collapsed:: true
+		- ![image.png](../assets/image_1668909350683_0.png)
+		- Windows 用户要如下设置: 在"项目设置"中
+		  collapsed:: true
+			- ![image.png](../assets/image_1668909271600_0.png)
+			- ![image.png](../assets/image_1668909281880_0.png)
+			- ![image.png](../assets/image_1668909299767_0.png)
+			- ![image.png](../assets/image_1668909311119_0.png)
+			- 这样, 你渲染出的视频, 就不会出现偏色问题了
+			-
+		- Mac 用户要如下设置
+		  collapsed:: true
+			- ![image.png](../assets/image_1668909208077_0.png)
+			- ![image.png](../assets/image_1668909223184_0.png)
+		-
 	- 无损渲染
 	  collapsed:: true
 		- 如果你想无损渲染, 可以选下图中的编码
 		- ![image.png](../assets/image_1668846819795_0.png)
+		-
+	- 输出质量的控制
+	  collapsed:: true
+		- 在这里控制视频的质量
+		- ![image.png](../assets/image_1668908895356_0.png)
+		- 4k+25帧 = 码率 35000
+		- 4k+50帧 = 码率55000
+		- 720p = 码率 1500-3000kbps , 即 1分钟15MB左右
 		-
