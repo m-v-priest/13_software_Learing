@@ -38,6 +38,7 @@
 		- ![未命名图片.png](../assets/未命名图片_1668775122071_0.png)
 		-
 - ---
+-
 - ### 最常用功能
 	- iphone 4k 视频导入问题
 	  collapsed:: true
@@ -545,7 +546,21 @@
 		- ![image.png](../assets/image_1668859320568_0.png)
 		-
 - ---
-- ### 片段
+- ### 轨道和 & 片段
+	- 将素材指定插入到某轨道上
+	  background-color:: pink
+	  collapsed:: true
+		- ![image.png](../assets/image_1669031750617_0.png)
+		- ![image.png](../assets/image_1669033651637_0.png)
+		- ![image.png](../assets/image_1669031860946_0.png)
+	- 完美将新片段, 覆盖某老片段的时长
+	  background-color:: red
+	  collapsed:: true
+		- ![image.png](../assets/image_1669032282822_0.png)
+		- ![image.png](../assets/image_1669032467391_0.png)
+		- 覆盖片段, 快捷键是 f10
+		- ![image.png](../assets/image_1669032526655_0.png)
+		-
 	- 片段间不吸附了, 怎么办?
 	  collapsed:: true
 		- ![image.png](../assets/image_1668773755392_0.png)
@@ -555,7 +570,27 @@
 		- 对片段右键 -> 新建复合片段
 		- ![image.png](../assets/image_1668856228852_0.png)
 		- ![image.png](../assets/image_1668856239398_0.png)
-	-
+	- 只拖动素材的视频(无音轨)到轨道上, 按 alt + 点击素材拖动
+	  只拖动音轨(无视频)到轨道上, 按 shift + 点击素材拖动
+	- 预览视频时, 同时也预览声音 -> shift + s 来开关
+	  collapsed:: true
+		- ![image.png](../assets/image_1669032789023_0.png)
+	- 快速在"素材库"和"时间线轨道"的视频间, 切换. -> q 键
+	  background-color:: red
+	  collapsed:: true
+		- ![image.png](../assets/image_1669032996525_0.png)
+	- 在你修改了剪辑后, 按 "shift + ?", 可以 自动向前跳几秒, 来自动播放预览. 就不需要你手动拖动红色时间线到前面, 再来播放预览了.
+	  background-color:: red
+	  collapsed:: true
+		- ![image.png](../assets/image_1669033199192_0.png)
+	- 在切刀的地方自动跳转 -> 按"上,下"键
+	  background-color:: blue
+	  collapsed:: true
+		- ![image.png](../assets/image_1669033380135_0.png)
+		  id:: 637b6d7f-6209-49c8-bc21-24aea3b65cc9
+	- 预览所有片段, 同时查看全部片段 -> shift+z
+	  collapsed:: true
+		- ![image.png](../assets/image_1669033488590_0.png)
 -
 - ---
 - ### 注释功能
