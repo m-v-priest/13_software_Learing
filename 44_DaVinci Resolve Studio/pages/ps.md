@@ -38,7 +38,6 @@
   collapsed:: true
 	- ★ 改成任何颜色
 	  background-color:: #793e3e
-	  collapsed:: true
 		- 先添加色相图层,  选中"着色"
 		- ![image.png](../assets/image_1663067708371_0.png)
 		- 再对"色相"层,  ctrl + i  反向
@@ -83,6 +82,7 @@
 		-
 	-
 - 色调移植
+  collapsed:: true
 	- ★ 色调移植
 	  background-color:: #793e3e
 	  collapsed:: true
@@ -233,7 +233,8 @@
 - 人像
   collapsed:: true
 	- 让无层次的脸, 更有光影体积感
-	  background-color:: #793e3e
+	  background-color:: red
+	  collapsed:: true
 		- 常规做法 1
 		  collapsed:: true
 			- 新建一个空白层, 模式改成"叠加", 或 "柔光"
@@ -331,6 +332,11 @@
 			- 来对比一下:
 			- ![image.png](../assets/image_1663406707018_0.png)
 			-
+	- camera raw 人物识别功能
+	  collapsed:: true
+		- ![image.png](../assets/image_1669431579889_0.png)
+		- 然后对右下角每个人物的小头像, 点进去后, 就能单独调整该人物的不同部位颜色
+		- ![image.png](../assets/image_1669431673973_0.png)
 	-
 	-
 	-
@@ -352,3 +358,14 @@
 	-
 		-
 	-
+- 内容识别缩放
+  background-color:: red
+  collapsed:: true
+	- ![image.png](../assets/image_1669430758831_0.png)
+	- ![image.png](../assets/image_1669430832879_0.png)
+	- ![image.png](../assets/image_1669430911310_0.png)
+	- ![image.png](../assets/image_1669430978720_0.png)
+	-
+- 瑕疵移除
+  collapsed:: true
+	- ![image.png](../assets/image_1669431981891_0.png)
