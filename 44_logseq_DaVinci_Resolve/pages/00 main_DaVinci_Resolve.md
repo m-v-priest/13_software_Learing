@@ -4,7 +4,6 @@ title:: 00 main_DaVinci_Resolve
   background-color:: #793e3e
 	- 暂时关闭时间线上的某片段 (变灰) -> 按 D 键
 	- 一次性删除所有 "用 快捷键D 关闭的片段"
-	  collapsed:: true
 		- 菜单: 时间线 -> 清理视频轨道 -> 收起未使用片段
 		- ![006.png](../assets/006_1645617430097_0.png)
 		- 但该方法只对变灰的"视频部分"有效, 对相应的"音频部分"无效, 不会被删除
@@ -36,10 +35,8 @@ title:: 00 main_DaVinci_Resolve
   background-color:: #793e3e
 	- 删除入点, 出点, 按 alt + i,  alt + o
 	- ★ 重新找到原始素材上的"入点, 出点"位置 -> F 键
-	  collapsed:: true
 		- 将已"入点, 出点"后的子片段, 重新定位它在原始长片段上的"入点, 出点"位置 -> 在轨道上选中子片段, 按 F 键
 	- 将时间轴(红线)处, 变成"入点" -> shift + [
-	  collapsed:: true
 		- ![036.png](../assets/036_1645616987359_0.png)
 		- ![037.png](../assets/037_1645616990267_0.png)
 	- 将时间轴(红线)处, 变成"出点" -> shift + ]

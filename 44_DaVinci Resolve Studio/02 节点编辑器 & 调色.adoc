@@ -1,6 +1,6 @@
 
 = DaVinci 节点编辑器 & 调色
-:toc:
+:toc: left
 :sectnums:
 
 ---
