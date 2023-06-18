@@ -2,6 +2,7 @@
 = DaVinci fusion
 :toc: left
 :sectnums:
+:toclevels: 3
 
 ---
 
@@ -100,3 +101,218 @@ image:img/042.png[]
 
 
 ---
+
+== fusion
+
+=== *创建fusion片段*
+
+
+
+==== 方法1
+
+image:img/106.png[]
+
+image:img/107.png[]
+
+==== 方法2
+
+image:img/108.png[]
+
+image:img/109.png[]
+
+==== 在预览窗口中, 显示任意片段 -> 直接拖动节点到预览窗口中, 即可.
+
+image:img/110.png[]
+
+image:img/111.png[]
+
+
+==== 跳到指定帧数
+
+image:img/112.png[]
+
+上面的帧数红线, 也可以手动拖动位置.
+
+
+==== 缩放节点面板的显示范围 -> ctrl + 鼠标滚轮
+
+image:img/113.png[]
+
+
+==== 整体平移节点面板 -> 用鼠标中键
+
+==== 将节点显示成图标
+
+image:img/114.png[]
+
+==== 移动节点时, 让它们能自动水平或垂直对齐, 相当于吸附到网格功能
+
+image:img/115.png[]
+
+==== 将多个节点的效果, 融合在一起
+
+image:img/116.png[]
+
+image:img/117.png[]
+
+image:img/119.png[]
+
+image:img/120.png[]
+
+image:img/121.png[]
+
+
+==== 手动添加任何节点
+
+image:img/122.png[]
+
+==== ★ 连线箭头的颜色 的意思 : 绿前, 黄后
+
+image:img/123.png[]
+
+image:img/124.png[]
+
+image:img/125.png[]
+
+image:img/126.png[]
+
+image:img/127.png[]
+
+image:img/128.png[]
+
+==== 缩放"节点内容"的尺寸
+
+image:img/129.png[]
+
+=== *蒙版*
+
+==== 蓝色箭头连线, 表示"蒙版"功能
+
+image:img/130.png[]
+
+image:img/131.png[]
+
+image:img/132.png[]
+
+image:img/133.png[]
+
+==== 蒙版案例 : 让曲线生长
+
+image:img/134.png[]
+
+image:img/135.png[]
+
+image:img/136.png[]
+
+image:img/137.png[]
+
+image:img/138.png[]
+
+image:img/139.png[]
+
+image:img/140.png[]
+
+image:img/141.png[]
+
+image:img/142.png[]
+
+image:img/143.png[]
+
+image:img/144.png[]
+
+image:img/145.png[]
+
+image:img/146.png[]
+
+image:img/147.png[]
+
+image:img/148.png[]
+
+image:img/149.png[]
+
+==== 抠出任意形状的路径蒙版
+
+image:img/150.png[]
+
+image:img/151.png[]
+
+image:img/152.png[]
+
+image:img/153.png[]
+
+image:img/154.png[]
+
+=== *文本*
+
+==== 打字机效果, 一个字一个字出来
+
+image:img/155.png[]
+
+==== 文字描边
+
+image:img/156.png[]
+
+image:img/157.png[]
+
+image:img/158.png[]
+
+==== 文字阴影
+
+image:img/159.png[]
+
+image:img/160.png[]
+
+image:img/161.png[]
+
+==== 动画案例 1
+
+image:img/162.png[]
+
+=== *跟踪节点*
+
+==== 让文字做跟踪
+
+image:img/163.png[]
+
+image:img/163.png[]
+
+image:img/164.png[]
+
+image:img/165.png[]
+
+image:img/166.png[]
+
+image:img/167.png[]
+
+image:img/168.png[]
+
+image:img/169.png[]
+
+下面, 在空白处直接右键也行, 不需要在最后一帧上右键.
+
+image:img/170.png[]
+
+
+==== 平面跟踪 (注意: 平面区域前, 不能有遮挡, 否则失效.)
+
+image:img/171.png[]
+
+image:img/172.png[]
+
+image:img/173.png[]
+
+image:img/174.png[]
+
+image:img/175.png[]
+
+'''
+
+==== 用"点跟踪", 来跟踪前面有遮挡的平面
+
+
+
+
+
+
+
+
