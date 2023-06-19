@@ -14,6 +14,63 @@
 
 https://www.voukoder.org/forum/thread/783-downloads-instructions/
 
+'''
+== *把项目打包出来*
+
+image:img/191.png[]
+
+image:img/192.png[]
+
+但媒体文件管理, 只能打包出素材, 而无法带上工程文件
+
+image:img/193.png[]
+
+会导出一个 drp 项目文件
+
+image:img/194.png[]
+
+image:img/195.png[]
+
+image:img/196.png[]
+
+为了安全, 我们还需的"数据库"进行备份
+
+image:img/197.png[]
+
+会生成一个 数据库文件
+
+image:img/198.png[]
+
+要恢复数据库, 依然在"项目管理器"里面操作
+
+image:img/199.png[]
+
+注意: 下面没成功
+
+image:img/200.png[]
+
+image:img/201.png[]
+
+image:img/202.png[]
+
+接下来, 只需要链接你的素材.
+
+
+
+
+
+'''
+
+== 界面
+
+==== 从全屏, 退出到窗口模式 -> 必须你自己设置快捷键
+
+点最大化按钮, 会导致界面全屏, 菜单栏消失, 而且默认无法退回到窗口模式. 你只能自己定义快捷键来解决这个问题. 比如, 设置一个快捷键 ecs (退出键), 来退回到窗口模式.
+
+image:img/180.png[]
+
+image:img/181.png[]
+
 
 
 ---
@@ -417,7 +474,7 @@ image:img/005.png[]
 ---
 
 
-== *预览窗口*
+== *视频播放预览窗口*
 
 ==== 将播放预览窗口, 全屏来播放 -> ctrl + f,  或 直接按 p
 
