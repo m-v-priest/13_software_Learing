@@ -1,6 +1,6 @@
 
 = DaVinci 视频 常用功能
-:toc:
+:toc: left
 :toclevels: 3
 :sectnums:
 
@@ -439,6 +439,14 @@ image:img/001.png[]
 
 
 == *操作效率 设置*
+
+==== 自定义快捷键 -> ctrl + alt + k
+
+image:img/105.png[]
+
+
+
+'''
 
 ==== 打开"历史记录"
 
