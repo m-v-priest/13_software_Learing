@@ -1,0 +1,26 @@
+
+
+= DaVinci 添加字幕
+:toc:
+:sectnums:
+
+---
+
+== 中英双字幕
+
+image:img/204.png[]
+
+image:img/205.png[]
+
+现在, 字幕轨道好像看起来没什么变化, 其实你已经可以给这个字幕轨道, 添加多个字幕了
+
+image:img/206.png[]
+
+image:img/207.png[]
+
+image:img/208.png[]
+
+'''
+
+
+
