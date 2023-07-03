@@ -146,6 +146,24 @@ image:img/072.png[]
 
 ---
 
+== 显示片段的配色 -> 打开配色板
+
+
+image:img/211.png[]
+
+image:img/212.png[]
+
+image:img/213.png[]
+
+image:img/214.png[]
+
+image:img/215.png[]
+
+image:img/216.png[]
+
+
+
+
 == *lut 调色*
 
 ==== 导入你自己的 lut
