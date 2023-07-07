@@ -1,7 +1,7 @@
 
 
 = DaVinci 添加字幕
-:toc:
+:toc: left
 :sectnums:
 
 ---
@@ -21,6 +21,42 @@ image:img/207.png[]
 image:img/208.png[]
 
 '''
+
+== ★ 文字形状的蒙版效果
+
+image:img/217.png[]
+
+image:img/218.png[]
+
+== 文字: 数码效果
+
+image:img/219.png[]
+
+image:img/220.png[]
+
+'''
+
+== 文字: 打字机效果
+
+image:img/221.png[]
+
+image:img/222.png[]
+
+image:img/223.png[]
+
+
+'''
+
+== 文字: 霓虹灯效果
+
+https://www.bilibili.com/video/BV1sg4y1N7tM/?spm_id_from=333.999.0.0&vd_source=52c6cb2c1143f8e222795afbab2ab1b5
+
+3.56
+
+
+
+
+
 
 
 
