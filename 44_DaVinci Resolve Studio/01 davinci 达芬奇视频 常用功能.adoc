@@ -422,6 +422,8 @@ image:img/024.png[]
 |稳定器, 是在"调色"模块界面中的.
 |image:img/029.png[]
 
+image:img/224.png[]
+
 它有三种稳定算法, 可供选择:
 
 image:img/030.png[]
