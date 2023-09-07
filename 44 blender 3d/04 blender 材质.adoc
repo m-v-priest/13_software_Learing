@@ -1,0 +1,140 @@
+
+= blender 材质
+:toc: left
+:sectnums: 3
+
+'''
+
+
+
+== #材质#
+
+image:img/0052.png[,]
+
+image:img/0053.png[,]
+
+
+
+
+
+
+==== 金属质感
+
+
+image:img/0054.png[,]
+
+image:img/0055.png[,]
+
+
+== #着色器编辑器#
+
+image:img/0125.png[,]
+
+image:img/0126.png[,]
+
+image:img/0127.png[,]
+
+image:img/0128.png[,]
+
+
+==== ★ 金属质感
+
+image:img/0129.png[,]
+
+image:img/0130.png[,]
+
+
+==== 塑料感觉
+
+image:img/0131.png[,]
+
+==== 玻璃透光质感
+
+image:img/0132.png[,]
+
+
+
+==== ★ 自发光
+
+image:img/0134.png[,]
+
+
+==== 透明度
+
+image:img/0135.png[,]
+
+==== 次表面颜色 (类似皮肤在背光时, 能看到透出血液的颜色)
+
+image:img/0136.png[,]
+
+
+次表面颜色（Subsurface Color）：用于模拟类似于人类皮肤这样在光线透过表面之后, 会有第二种表面颜色反射的情况。也可以做类似陶瓷，玉，冰之类的从物体内部往外透出颜色的材质，会给人一种很通透的感觉。
+
+==== 各向异性过滤 (让高光变成圆环)
+
+image:img/0137.png[,]
+
+image:img/0138.png[,]
+
+== ★ 一个物体, 在不同的部位, 分别赋予两种材质
+
+
+image:img/0140.png[,]
+
+== 添加有纹理的材质
+
+==== #★★ 图像纹理, 贴图#
+
+image:img/0141.png[,]
+
+image:img/0142.png[,]
+
+image:img/0143.png[,]
+
+image:img/0144.png[,]
+
+为了能调整贴图的位置, 我们还需要一个映射节点
+
+image:img/0145.png[,]
+
+image:img/0146.png[,]
+
+image:img/0147.png[,]
+
+image:img/0148.png[,]
+
+image:img/0149.png[,]
+
+image:img/0150.png[,]
+
+image:img/0151.png[,]
+
+
+下面, 第一种, 会在物体的正反两面有贴图
+
+image:img/0155.png[,]
+
+image:img/0156.png[,]
+
+image:img/0157.png[,]
+
+image:img/0158.png[,]
+
+总结:
+
+image:img/0159.png[,]
+
+
+
+
+==== ★★ 把一张图片, 映射到3d物体上 (像包装纸一样)
+
+image:img/0152.png[,]
+
+image:img/0153.png[,]
+
+image:img/0154.png[,]
+
+
+
+

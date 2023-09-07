@@ -1,0 +1,54 @@
+
+
+= blender 实景合成
+:toc: left
+:sectnums: 3
+
+'''
+
+实景合成, 需要用到一个辅助软件: fspy. 已存在你的百度网盘里了.
+
+
+官网安装为 https://fspy.io/
+
+image:img/0113.png[,]
+
+image:img/0112.png[,]
+
+image:img/0114.png[,]
+
+image:img/0115.png[,]
+
+image:img/0116.png[,]
+
+在blender导入 fspy格式文件之前, 我们还需要给 blender安装一个插件来支持这种格式.
+
+https://github.com/stuffmatic/fSpy-Blender
+
+
+
+image:img/0120.png[,]
+
+image:img/0117.png[,]
+
+image:img/0118.png[,]
+
+image:img/0119.png[,]
+
+image:img/0121.png[,]
+
+image:img/0123.png[,]
+
+用小数字键0, 来查看相机的取景视图.
+
+image:img/0122.png[,]
+
+image:img/0124.png[,]
+
+
+
+
+
+
+
+
