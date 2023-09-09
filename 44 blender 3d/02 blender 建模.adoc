@@ -22,6 +22,26 @@ image:img/0030.png[,]
 image:img/0031.png[,]
 
 
+==== #★ 修改参数: f9#
+
+物体新建后只要进行过移动、缩放、旋转等操作，是无法再查看左下角属性栏的，特别是在【编辑模式】下进行过点线面操作的，除了撤销动作可以返回几步，几乎是不可逆的，所以在添加如圆环、球体、柱体等需要修改顶点、半径、段数等的物体，请提前修改确认好，如果属性栏消失了，想修改物体属性可以尝试以下方法：
+
+方法一：如果只是点击其他位置，导致属性栏消失，可以通过菜单栏【编辑】-【调整上一部操作】快捷键【F9】可以重新打开属性栏（请确认输入法为英文）
+
+
+image:img/0177.png[,]
+
+方法二：如果进行了如移动、缩放、旋转等操作，但是操作步骤不多，可以通过快捷键【Shift+A】重新创建一个
+
+方法三：如果只是需要修改物体的位置、旋转、缩放、尺寸的具体属性，可以通过按快捷键【N】，在条目-变换中进行修改
+
+image:img/0178.png[,]
+
+
+方法四：如果进行过复杂操作，如进行了【挤压】和【添加了修改器】等，可以通过【新建物体】 继承属性来改变物体的属性，方法如下：
+
+
+
 ==== ★ 单独查看某个物体 : 英文输入法模式下,按 /
 
 image:img/0036.png[,]
@@ -224,6 +244,71 @@ image:img/0103.png[,]
 image:img/0104.png[,]
 
 image:img/0105.png[,]
+
+
+
+== 修改器
+
+====
+
+
+image:img/0176.png[,]
+
+image:img/0179.png[,]
+
+image:img/0180.png[,]
+
+image:img/0181.png[,]
+
+image:img/0182.png[,]
+
+image:img/0183.png[,]
+
+image:img/0184.png[,]
+
+image:img/0185.png[,]
+
+image:img/0186.png[,]
+
+image:img/0187.png[,]
+
+image:img/0188.png[,]
+
+image:img/0189.png[,]
+
+image:img/0190.png[,]
+
+image:img/0191.png[,]
+
+image:img/0192.png[,]
+
+image:img/0193.png[,]
+
+image:img/0194.png[,]
+
+image:img/0195.png[,]
+
+image:img/0196.png[,]
+
+image:img/0197.png[,]
+
+image:img/0198.png[,]
+
+image:img/0199.png[,]
+
+image:img/0200.png[,]
+
+image:img/0201.png[,]
+
+image:img/0202.png[,]
+
+image:img/0203.png[,]
+
+image:img/0204.png[,]
+
+image:img/0205.png[,]
+
+image:img/0206.png[,]
 
 
 

@@ -122,8 +122,10 @@ image:img/0158.png[,]
 
 总结:
 
+
 image:img/0159.png[,]
 
+image:img/0160.png[,]
 
 
 
@@ -134,6 +136,30 @@ image:img/0152.png[,]
 image:img/0153.png[,]
 
 image:img/0154.png[,]
+
+
+
+== 渐变纹理
+
+image:img/0161.png[,]
+
+image:img/0162.png[,]
+
+image:img/0163.png[,]
+
+image:img/0164.png[,]
+
+image:img/0165.png[,]
+
+image:img/0167.png[,]
+
+image:img/0168.png[,]
+
+image:img/0169.png[,]
+
+image:img/0170.png[,]
+
+
 
 
 
