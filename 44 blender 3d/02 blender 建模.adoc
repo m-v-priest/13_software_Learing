@@ -249,7 +249,7 @@ image:img/0105.png[,]
 
 == 修改器
 
-====
+==== 方变圆
 
 
 image:img/0176.png[,]
@@ -284,31 +284,137 @@ image:img/0192.png[,]
 
 image:img/0193.png[,]
 
-image:img/0194.png[,]
 
-image:img/0195.png[,]
 
-image:img/0196.png[,]
 
-image:img/0197.png[,]
+==== #阵列修改器#
 
-image:img/0198.png[,]
 
-image:img/0199.png[,]
 
-image:img/0200.png[,]
 
-image:img/0201.png[,]
+image:img/0226.png[,]
 
-image:img/0202.png[,]
+image:img/0227.png[,]
 
-image:img/0203.png[,]
+image:img/0228.png[,]
 
-image:img/0204.png[,]
+相对偏移, 是以物体自身尺寸为1倍距离.
 
-image:img/0205.png[,]
+image:img/0229.png[,]
 
-image:img/0206.png[,]
+
+
+image:img/0230.png[,]
+
+你修改了原型物体后, 其它的分身物体会跟着一起变化.
+
+image:img/0231.png[,]
+
+image:img/0232.png[,]
+
+image:img/0233.png[,]
+
+
+
+'''
+
+==== 倒角修改器
+
+image:img/0234.png[,]
+
+image:img/0235.png[,]
+
+每个修改器, 就相当于一个函数. 你放上面的修改器, 会优先执行这个函数. 所以多个修改器之间可以调整上下顺序, 来调整这多个函数的执行顺序.
+
+image:img/0236.png[,]
+
+image:img/0237.png[,]
+
+image:img/0238.png[,]
+
+image:img/0239.png[,]
+
+image:img/0240.png[,]
+
+image:img/0241.png[,]
+
+image:img/0242.png[,]
+
+image:img/0243.png[,]
+
+image:img/0244.png[,]
+
+image:img/0245.png[,]
+
+image:img/0246.png[,]
+
+image:img/0247.png[,]
+
+image:img/0248.png[,]
+
+image:img/0249.png[,]
+
+image:img/0250.png[,]
+
+image:img/0251.png[,]
+
+image:img/0252.png[,]
+
+image:img/0253.png[,]
+
+image:img/0254.png[,]
+
+image:img/0255.png[,]
+
+image:img/0256.png[,]
+
+image:img/0257.png[,]
+
+image:img/0258.png[,]
+
+image:img/0259.png[,]
+
+image:img/0260.png[,]
+
+image:img/0261.png[,]
+
+image:img/0262.png[,]
+
+image:img/0263.png[,]
+
+image:img/0264.png[,]
+
+image:img/0265.png[,]
+
+image:img/0266.png[,]
+
+image:img/0267.png[,]
+
+image:img/0268.png[,]
+
+image:img/0269.png[,]
+
+image:img/0270.png[,]
+
+image:img/0271.png[,]
+
+image:img/0272.png[,]
+
+image:img/0273.png[,]
+
+image:img/0274.png[,]
+
+image:img/0275.png[,]
+
+image:img/0276.png[,]
+
+image:img/0277.png[,]
+
+image:img/0278.png[,]
+
+image:img/0279.png[,]
+
+image:img/0280.png[,]
 
 
 
