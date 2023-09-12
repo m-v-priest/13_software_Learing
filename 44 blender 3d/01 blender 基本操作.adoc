@@ -234,6 +234,107 @@ image:img/0003.png[,]
 
 '''
 
+
+==== #★ 随机变换#
+
+
+
+
+image:img/0248.png[,]
+
+image:img/0249.png[,]
+
+image:img/0250.png[,]
+
+image:img/0251.png[,]
+
+image:img/0252.png[,]
+
+image:img/0253.png[,]
+
+image:img/0254.png[,]
+
+image:img/0255.png[,]
+
+image:img/0256.png[,]
+
+image:img/0257.png[,]
+
+image:img/0258.png[,]
+
+image:img/0259.png[,]
+
+image:img/0260.png[,]
+
+image:img/0261.png[,]
+
+image:img/0262.png[,]
+
+image:img/0263.png[,]
+
+image:img/0264.png[,]
+
+image:img/0265.png[,]
+
+image:img/0266.png[,]
+
+image:img/0267.png[,]
+
+image:img/0268.png[,]
+
+image:img/0269.png[,]
+
+image:img/0270.png[,]
+
+image:img/0271.png[,]
+
+image:img/0272.png[,]
+
+image:img/0273.png[,]
+
+image:img/0274.png[,]
+
+image:img/0275.png[,]
+
+image:img/0276.png[,]
+
+image:img/0277.png[,]
+
+image:img/0278.png[,]
+
+image:img/0279.png[,]
+
+image:img/0280.png[,]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+'''
+
+
 == #游标# cursor
 
 ==== ★★ 将游标, 重新回到激活的某物体坐标处
@@ -246,7 +347,7 @@ image:img/0010.png[,]
 
 image:img/0012.png[,]
 
-== 每个物体自身的原点(小黄点)
+== 每个物体自身的 #原点(小黄点)#
 
 注意: 小黄点才是代表物体的真正坐标位置. 计算机只认小黄点位置, 不认具体的模型物体位置.
 
@@ -275,3 +376,21 @@ image:img/0033.png[,]
 
 
 
+== #★ 吸附#
+
+
+image:img/0240.png[,]
+
+image:img/0241.png[,]
+
+image:img/0242.png[,]
+
+image:img/0243.png[,]
+
+image:img/0244.png[,]
+
+image:img/0245.png[,]
+
+image:img/0246.png[,]
+
+image:img/0247.png[,]
