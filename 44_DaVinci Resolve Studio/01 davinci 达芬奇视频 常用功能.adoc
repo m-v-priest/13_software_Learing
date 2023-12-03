@@ -443,12 +443,38 @@ image:img/030.png[]
 
 == *时间线*
 
+
+==== 将时间线上的时间数字, 默认从 0 开始
+
+image:img/226.jpg[,]
+
+image:img/227.jpg[,]
+
+image:img/228.jpg[,]
+
+
+'''
+
+==== 时间线文件夹
+
+按 ctrl + ,
+
+image:img/229.jpg[,]
+
+image:img/230.jpg[,]
+
+image:img/231.jpg[,]
+
+
+'''
+
 ==== ★ 缩放"时间线" -> alt + 鼠标中键
 
 轨道时间线的缩放 :
 
 - alt + 滚动"鼠标中键"
 - ctrl + 加号/减号
+
 
 
 ---

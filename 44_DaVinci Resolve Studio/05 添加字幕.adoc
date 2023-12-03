@@ -22,6 +22,18 @@ image:img/208.png[]
 
 '''
 
+==  空心字
+
+image:img/243.jpg[,]
+
+'''
+
+== 渐变字
+
+image:img/244.jpg[,]
+
+'''
+
 == ★ 文字形状的蒙版效果
 
 image:img/217.png[]
