@@ -22,6 +22,22 @@ image:img/208.png[]
 
 '''
 
+== 文字制表符间距设置
+
+image:img/245.jpg[]
+
+image:img/247.png[]
+
+image:img/246.png[]
+
+
+
+
+
+'''
+
+
+
 ==  空心字
 
 image:img/243.jpg[,]
