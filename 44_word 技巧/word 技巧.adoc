@@ -57,13 +57,47 @@ image:/img/0010.png[]
 在"自动换行"按钮中, 点击"衬于文字下方"按钮. +
 将第三方图片拉满页眉
 
+
+|但现在, 你发现页面文字第一行与页面顶端的距离, 太近了. 可以设置这里:
+|image:/img/0016.png[]
+
+image:/img/0017.png[]
+
+image:/img/0018.png[]
+
+
 |最后, 就能退出"页眉页脚"的编辑状态了.
 |image:/img/0011.png[]
 
 image:/img/0015.png[]
+
 |===
 
 
 
 
 '''
+
+== 自定义你的 标题层级 样式
+
+image:/img/0019.png[]
+
+image:/img/0020.png[]
+
+image:/img/0021.png[]
+
+
+'''
+
+== 为某一行, 添加上整行的背景色
+
+image:/img/0022.png[]
+
+image:/img/0023.png[]
+
+image:/img/0024.png[]
+
+
+'''
+
+
