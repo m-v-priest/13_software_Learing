@@ -1,0 +1,23 @@
+
+= ps 空间透视
+
+image:img/00050.png[,] +
+
+image:img/00051.png[,] +
+
+image:img/00052.png[,] +
+
+image:img/00053.png[,] +
+
+image:img/00054.png[,] +
+
+image:img/00055.png[,] +
+
+image:img/00056.png[,] +
+
+image:img/00057.png[,] +
+
+这种方式的最大缺点是, 做完之后, 就不能再次修改透视, 必须整个流程重新从头来一遍.
+
+'''
+

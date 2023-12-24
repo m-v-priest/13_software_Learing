@@ -1,0 +1,44 @@
+
+= ps 波普效果人物
+:toc: left
+:toclevels: 3
+:sectnums:
+
+'''
+
+== 第一种 : 网点
+
+image:img/00036.png[,] +
+
+image:img/00037.png[,] +
+
+image:img/00038.png[,] +
+
+image:img/00039.png[,] +
+
+image:img/00040.png[,] +
+
+image:img/00041.png[,] +
+
+image:img/00042.png[,] +
+
+image:img/00043.png[,] +
+
+image:img/00044.png[,] +
+
+'''
+
+== 第二种 : 波浪线
+
+image:img/00045.png[,] +
+
+image:img/00046.png[,] +
+
+image:img/00047.png[,] +
+
+image:img/00048.png[,] +
+
+image:img/00049.png[,] +
+
+'''
+

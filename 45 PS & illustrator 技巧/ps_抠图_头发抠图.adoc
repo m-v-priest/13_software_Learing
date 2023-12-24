@@ -1,0 +1,20 @@
+
+= 头发抠图
+
+image:img/00020.png[,] +
+
+image:img/00019.png[,] +
+
+image:img/00021.png[,] +
+
+image:img/00022.png[,] +
+
+image:img/00023.png[,] +
+
+image:img/00024.png[,] +
+
+净化颜色的功能, 估计是用白边里面的头发的颜色, 来替换掉白边的颜色.
+
+image:img/00025.png[,] +
+
+'''

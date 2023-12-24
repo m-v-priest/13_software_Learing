@@ -1,0 +1,20 @@
+
+== 定义四方连续图案
+
+image:img/00008.png[,] +
+
+image:img/00009.png[,] +
+
+image:img/00010.png[,] +
+
+image:img/00011.png[,] +
+
+image:img/00012.png[,] +
+
+image:img/00013.png[,] +
+
+image:img/00014.png[,] +
+
+image:img/00015.png[,] +
+
+'''
