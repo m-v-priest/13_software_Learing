@@ -1,7 +1,11 @@
 
 = DaVinci 音乐
-:toc:
+:toc: left
+:toclevels: 3
 :sectnums:
+
+'''
+
 
 ---
 
@@ -20,4 +24,49 @@ image:img/025.png[]
 
 
 ---
+
+== ★ 音频降噪
+
+先把"特效库"中的"音频特效"的 noise reduction 拖动到你的音频上
+
+image:/img/248.png[]
+
+image:/img/249.png[]
+
+如果你想删除掉你的音频特效, 就点这里:
+
+image:/img/250.png[]
+
+image:/img/255.png[]
+
+
+
+'''
+
+== 强制对单声道改双声道
+
+上面对音频降噪后, 我遇到过变成了单声道的情况, 那就把它强制改成双声道
+
+image:/img/251.png[]
+
+image:/img/252.png[]
+
+然后 点击ok按钮 即可.
+
+image:/img/253.png[]
+
+'''
+
+== 原始音频音量太低, 如何提高音量
+
+image:/img/254.png[]
+
+
+'''
+
+== 只渲染导出音频
+
+image:/img/256.png[]
+
+'''
 
