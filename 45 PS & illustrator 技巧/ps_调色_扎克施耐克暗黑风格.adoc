@@ -1,5 +1,5 @@
 
-= ps调色_扎克施耐克暗黑风格
+= ps /调色 / 扎克施耐克暗黑风格
 :toc: left
 :toclevels: 3
 :sectnums:
