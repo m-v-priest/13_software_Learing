@@ -1,0 +1,18 @@
+
+
+= ai 点阵旋转
+
+image:img/0090.png[,]
+
+
+Alt + c, d, t 打开"变换"
+
+image:img/0091.png[,]
+
+image:img/0092.png[,]
+
+image:img/0093.png[,]
+
+image:img/0094.png[,]
+
+image:img/0095.png[,]
