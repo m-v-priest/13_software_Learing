@@ -1,0 +1,61 @@
+
+
+= ae 必做设置
+:toc: left
+:toclevels: 3
+:sectnums:
+
+'''
+
+== 允许脚本安装
+
+image:img/0001.png[,]
+
+image:img/0002.png[,]
+
+
+'''
+
+== 自定义缓存目录位置
+
+image:img/0003.png[,]
+
+
+'''
+
+== 为其它程序预留内存, 以免ae吃掉太多内存
+
+image:img/0004.png[,]
+
+'''
+
+== GPU 加速
+
+image:img/0005.png[,]
+
+image:img/0006.png[,]
+
+'''
+
+
+
+
+== 保存自定义界面的布局
+
+窗口也可以拖动, 比如把特效窗口, 拖到界面的左边
+
+image:img/0016.png[,]
+
+image:img/0017.png[,]
+
+image:img/0018.png[,]
+
+方法2: 点这里也可以
+
+image:img/0019.png[,]
+
+image:img/0020.png[,]
+
+
+'''
+

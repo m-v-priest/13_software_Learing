@@ -1,0 +1,21 @@
+
+= ae 蒙版
+:toc: left
+:toclevels: 3
+:sectnums:
+
+'''
+
+== 给画面元素做蒙版
+
+image:img/0037.png[,]
+
+image:img/0038.png[,]
+
+image:img/0040.png[,]
+
+image:img/0039.png[,]
+
+'''
+
+

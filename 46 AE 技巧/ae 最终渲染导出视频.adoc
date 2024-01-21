@@ -1,0 +1,40 @@
+
+= ae 最终渲染导出视频
+:toc: left
+:toclevels: 3
+:sectnums:
+
+'''
+
+== 渲染导出视频
+
+按 ctrl + m
+
+image:img/0021.png[,]
+
+
+image:img/0030.png[,]
+
+
+image:img/0022.png[,]
+
+image:img/0023.png[,]
+
+image:img/0024.png[,]
+
+image:img/0025.png[,]
+
+image:img/0026.png[,]
+
+
+'''
+
+== 关闭掉渲染完成后的提示音
+
+image:img/0028.png[,]
+
+image:img/0029.png[,]
+
+
+'''
+

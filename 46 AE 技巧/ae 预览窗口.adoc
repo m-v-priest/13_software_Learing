@@ -1,0 +1,12 @@
+
+= ae 预览窗口
+:toc: left
+:toclevels: 3
+:sectnums:
+
+'''
+
+== 将预览窗口中的画面, 自动缩放到合适大小
+
+image:img/0041.png[,]
+

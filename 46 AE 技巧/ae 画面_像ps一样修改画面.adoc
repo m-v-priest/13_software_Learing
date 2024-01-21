@@ -1,0 +1,20 @@
+
+= ae 像ps一样修改画面
+:toc: left
+:toclevels: 3
+:sectnums:
+
+'''
+
+== 仿制图章
+
+注意: 这里的仿制图章, 只是在一帧画面上做修改.  你可能需要用 page up 或 page down 键, 来一帧一帧做修改, 太麻烦了.
+
+image:img/0045.png[,]
+
+image:img/0046.png[,]
+
+
+'''
+
+

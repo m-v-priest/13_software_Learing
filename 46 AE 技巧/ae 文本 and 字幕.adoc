@@ -1,0 +1,49 @@
+
+= ae 文本 & 字幕
+:toc: left
+:toclevels: 3
+:sectnums:
+
+'''
+
+== 添加文字
+
+image:img/0010.png[,]
+
+'''
+
+== 给文本添加效果
+
+==== 给文本添加"蒸发"效果
+
+image:img/0011.png[,]
+
+
+image:img/0012.png[,]
+
+image:img/0013.png[,]
+
+image:img/0014.png[,]
+
+image:img/0015.png[,]
+
+
+
+
+'''
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
