@@ -10,3 +10,18 @@
 
 image:img/0049.png[,]
 
+
+或按快捷键 ctrl + alt + home
+
+image:img/0066.png[,]
+
+'''
+
+== 锚点自动对齐到画面中心 ctrl + home
+
+
+image:img/0067.png[,]
+
+'''
+
+
