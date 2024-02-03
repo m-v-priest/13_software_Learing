@@ -16,6 +16,20 @@ image:img/0040.png[,]
 
 image:img/0039.png[,]
 
+image:img/0076.png[,]
+
 '''
 
+== 蒙版动画
+
+image:img/0075.png[,]
+
+
+'''
+
+== 将蒙版的边缘羽化
+
+image:img/0077.png[,]
+
+'''
 

@@ -1,0 +1,51 @@
+
+= ae 调色
+:toc: left
+:toclevels: 3
+:sectnums:
+// :stylesheet: myAdocCss.css
+
+'''
+
+== 用曲线来调色
+
+image:img/0081.png[,]
+
+image:img/0082.png[,]
+
+== 调整色相/饱和度
+
+image:img/0083.png[,]
+
+image:img/0084.png[,]
+
+image:img/0085.png[,]
+
+
+'''
+
+== 像 lightroom 一样来调色
+
+在"效果和预设"中, 搜索 lum
+
+image:img/0086.png[,]
+
+'''
+
+== 复制调色效果给另一个元素
+
+选中一个元素中的效果, ctrl+c , 再选另一个元素, ctrl+v 即可.
+
+image:img/0087.png[,]
+
+'''
+
+
+
+
+
+
+
+
+
+

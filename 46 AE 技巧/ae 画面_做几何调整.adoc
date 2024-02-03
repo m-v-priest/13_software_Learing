@@ -6,6 +6,16 @@
 
 '''
 
+==== 元素自动扩张到画面大小 ctrl + alt + shift + h
+
+image:img/0072.png[,]
+
+image:img/0073.png[,]
+
+image:img/0074.png[,]
+
+
+'''
 
 ==== 将画面或文字, 做3d旋转
 

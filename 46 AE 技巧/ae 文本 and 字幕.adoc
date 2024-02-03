@@ -39,6 +39,15 @@ image:img/0015.png[,]
 '''
 
 
+== 文字蒙版
+
+image:img/0078.png[,]
+
+image:img/0079.png[,]
+
+image:img/0080.png[,]
+
+
 
 
 
