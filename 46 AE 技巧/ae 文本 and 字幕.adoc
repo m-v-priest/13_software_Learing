@@ -16,6 +16,23 @@ image:img/0051.png[,]
 
 
 
+== 文字附着在钢笔路径上
+
+
+注意: 必须先选中你的文字层后, 再让钢笔画在你的这个文字层上!
+
+image:img/0096.jpg[,]
+
+image:img/0097.jpg[,]
+
+image:img/0098.jpg[,]
+
+image:img/0099.jpg[,]
+
+image:img/0100.jpg[,]
+
+image:img/0102.jpg[,]
+
 '''
 
 == 给文本添加效果
@@ -47,6 +64,18 @@ image:img/0079.png[,]
 
 image:img/0080.png[,]
 
+
+'''
+
+== 将文字转曲(转成路径)
+
+image:img/0114.jpg[,]
+
+转曲的文字, 原来的文字层不会丢失, 而是会复制出一个新的曲线层, 前面有五角星来标识.
+
+image:img/0115.jpg[,]
+
+image:img/0116.jpg[,]
 
 
 

@@ -1,0 +1,33 @@
+
+= ae 形状路径
+:toc: left
+:toclevels: 3
+:sectnums:
+//:stylesheet: myAdocCss.css
+
+
+'''
+
+== shift + 双击形状, 就能自动居中于画面, 来新建出这个路径形状
+
+image:/img/0107.jpg[,]
+
+image:/img/0108.jpg[,]
+
+== 只保留矩形边线
+
+image:/img/0109.jpg[,]
+
+== 矩形边框线 变 虚线效果
+
+image:/img/0110.jpg[,]
+
+image:/img/0111.jpg[,]
+
+== 边框线的头尾粗细
+
+image:/img/0112.jpg[,]
+
+== 五角星
+
+image:/img/0113.jpg[,]

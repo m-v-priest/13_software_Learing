@@ -1,0 +1,33 @@
+
+= 合成
+:toc: left
+:toclevels: 3
+:sectnums:
+//:stylesheet: myAdocCss.css
+
+
+'''
+
+== 合成设置 ctrl+k
+
+对合成, 点右键, 能打开"合成设置" +
+image:/img/0090.jpg[,]
+
+image:/img/0091.jpg[,]
+
+==== 更改"合成"的画面尺寸
+
+image:/img/0092.jpg[,]
+
+image:/img/0093.jpg[,]
+
+==== 当使用"合成嵌套"时, 如何保持"子合成"自带的帧率, 而不向"父合成"的帧率看齐?
+
+image:/img/0094.jpg[,]
+
+image:/img/0095.jpg[,]
+
+
+
+
+

@@ -15,6 +15,10 @@ image:img/0049.png[,]
 
 image:img/0066.png[,]
 
+即 +
+image:img/0101.jpg[,]
+
+
 '''
 
 == 锚点自动对齐到画面中心 ctrl + home

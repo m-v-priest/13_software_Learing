@@ -10,3 +10,16 @@
 == 导入素材
 
 image:img/0007.png[,]
+
+== 导入分层的psd文件
+
+image:/img/0088.jpg[,]
+
+image:/img/0089.jpg[,]
+
+
+
+
+
+
+
