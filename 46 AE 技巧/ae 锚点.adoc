@@ -6,7 +6,7 @@
 
 '''
 
-== 拖动锚点到元素正中心
+== 拖动锚点到元素正中心 : ctrl + alt + home
 
 image:img/0049.png[,]
 
@@ -21,7 +21,7 @@ image:img/0101.jpg[,]
 
 '''
 
-== 锚点自动对齐到画面中心 ctrl + home
+== 锚点自动对齐到画面中心 : ctrl + home
 
 
 image:img/0067.png[,]
