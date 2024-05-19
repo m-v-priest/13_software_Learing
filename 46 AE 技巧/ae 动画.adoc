@@ -1,12 +1,30 @@
 
 = ae 动画
+:toc: left
+:toclevels: 3
+:sectnums:
+//:stylesheet: myAdocCss.css
+
+
+'''
 
 == 添加关键帧
 
 image:img/0050.png[,]
 
+image:img/0158.png[,]
+
 
 == 在关键帧处跳转, 快捷键是 J(跳到前面一个关键帧), k(跳到后面一个关键帧)
+
+方法2: +
+image:img/0159.png[,]
+
+方法3: +
+按 shift 来 拖动时间线 +
+image:img/0160.png[,]
+
+
 
 == ★ 添加完关键帧动画后的元素, 如何再整体移动它?
 
@@ -15,5 +33,34 @@ image:img/0105.jpg[,]
 可以按住 shift 来拖动元素, 就是横平竖直的移动元素了
 
 image:img/0106.jpg[,]
+
+
+== 效果(如模糊等), 也可以设置关键帧
+
+
+image:img/0157.png[,]
+
+== ★ 按比例缩放"整体关键帧"时长 (即"加快"与"放慢"整体的动画速度)
+
+image:img/0161.png[,]
+
+image:img/0162.png[,]
+
+image:img/0163.png[,]
+
+
+== 在位移上, 缓入缓出
+
+image:img/0164.png[,]
+
+image:img/0165.png[,]
+
+image:img/0166.png[,]
+
+image:img/0167.png[,]
+
+
+
+
 
 

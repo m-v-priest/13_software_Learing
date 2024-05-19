@@ -97,3 +97,20 @@ image:img/0143.png[,]
 image:img/0144.png[,]
 
 image:img/0145.png[,]
+
+
+'''
+
+== 图层的混合模式
+
+image:img/0155.png[,]
+
+
+
+
+
+
+
+
+
+
