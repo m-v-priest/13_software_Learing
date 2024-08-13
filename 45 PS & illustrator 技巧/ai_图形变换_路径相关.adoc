@@ -1,0 +1,28 @@
+
+= ai 路径
+
+==== 等距离偏移路径
+
+image:img/0102.png[,] +
+image:img/0103.png[,] +
+
+
+image:img/0104.png[,50%] +
+
+image:img/0105.png[,50%] +
+
+image:img/0106.png[,50%] +
+
+image:img/0107.png[,50%] +
+
+image:img/0108.png[,] +
+
+image:img/0109.png[,] +
+
+
+
+
+'''
+
+
+
