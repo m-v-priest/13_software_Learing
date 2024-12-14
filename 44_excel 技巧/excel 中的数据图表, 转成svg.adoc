@@ -1,0 +1,44 @@
+
+= 如何将 excel 中画的数据图表, 转成svg?
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: myAdocCss.css
+
+'''
+
+
+== 将图片中的表格, oct识别转成 excel中的表格数据
+
+用在线工具即可: +
+https://web.baimiaoapp.com/image-to-excel
+
+'''
+
+
+== excel中, 对换数据图中的行列位置, 即列变行, 行变列
+
+image:/img/0008.png[,%]
+
+image:/img/0009.png[,%]
+
+
+'''
+
+
+== 给excel 中数据图中的曲线, 加上数值标签
+
+
+image:/img/0010.png[,%]
+
+
+
+'''
+
+
+== 将 excel 中画的数据图表, 复制粘贴到ai中, 就能在ai中 转成svg
+
+
+直接将 excel中的图表, 复制, 粘贴到 illustrator 中, 即可.  而且是文字可编辑的状态, 可以修改文字成 微软雅黑. +
+再在ai中导出 svg
+
