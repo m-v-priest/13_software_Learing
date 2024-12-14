@@ -1,0 +1,15 @@
+
+= ps 拓印效果
+
+image:img/0137.png[,]
+
+image:img/0138.png[,]
+
+image:img/0139.png[,]
+
+image:img/0140.png[,]
+
+可以再选出黑色部分选区, 做进一步处理
+
+image:img/0141.png[,]
+
