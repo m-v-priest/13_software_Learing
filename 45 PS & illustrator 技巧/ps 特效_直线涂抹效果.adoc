@@ -1,0 +1,6 @@
+
+= ps 直线涂抹效果
+
+image:img/0145.png[,]
+
+image:img/0146.png[,]

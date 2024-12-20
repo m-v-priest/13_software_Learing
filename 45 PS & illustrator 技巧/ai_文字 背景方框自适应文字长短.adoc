@@ -1,0 +1,6 @@
+
+= ai 让文字的背景色, 自适应文字长短
+
+image:img/0143.png[,]
+
+image:img/0144.png[,]
