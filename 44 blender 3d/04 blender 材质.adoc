@@ -5,7 +5,68 @@
 
 '''
 
+== #贴图#
 
+image:img/0290.png[,]
+
+注意: 贴图, 先要对选中物体, 按tab 进入点线面"编辑模式"才能贴图.
+
+image:img/0291.png[,]
+
+image:img/0301.png[,]
+
+image:img/0292.png[,]
+
+image:img/0293.png[,]
+
+image:img/0294.png[,]
+
+image:img/0295.png[,]
+
+image:img/0296.png[,]
+
+image:img/0297.png[,]
+
+变成黑色, 就说明物体已经用我们的贴图来贴了, 而遮盖掉了物体的材质颜色.
+
+image:img/0298.png[,]
+
+如果你载入贴图后, 物体上还是没有效果, 就按 assign 按钮
+
+image:img/0306.png[,]
+
+image:img/0300.png[,]
+
+
+==== #★ 进行单面贴图#
+
+
+image:img/0302.png[,]
+
+
+
+image:img/0307.png[,]
+
+
+image:img/0303.png[,]
+
+image:img/0304.png[,]
+
+image:img/0305.png[,]
+
+
+
+
+
+==== #★ 复制"贴图"给其他物体#
+
+image:img/0299.png[,]
+
+
+
+
+
+'''
 
 == #材质#
 
