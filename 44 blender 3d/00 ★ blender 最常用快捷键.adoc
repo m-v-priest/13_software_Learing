@@ -7,6 +7,9 @@
 
 
 '''
+== 快捷键, 网上资料
+
+https://blender.bgteach.com/Shortcut.html
 
 
 == 软件 UI 界面
@@ -113,6 +116,21 @@ image:img/0277.png[,70%]
 |顶视图 |数字键盘 7
 |底视图 |ctrl+7
 
+|===
+
+== 显示模式
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|边框线模式
+|shift +z +
+image:img/0315.png[,70%]
+
+|透视模式
+|alt + z
 |===
 
 
