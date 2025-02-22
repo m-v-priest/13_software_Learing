@@ -31,6 +31,17 @@ image:img/0263.png[,70%]
 
 '''
 
+== 软件设置
+
+==== 鼠标指哪, 就以哪作为视图缩放中心
+
+image:img/0319.png[,]
+
+
+
+
+'''
+
 == 图层
 
 [.small]
@@ -241,6 +252,11 @@ image:img/0260.png[,70%]
 
 |缩放物体
 |按 S (scale)
+
+|同时锁定两个轴来缩放
+|比如你想同时沿着x和y轴缩放, 可以按s后, 再按 shift+z, 即排除掉z轴. 这样, 你就能同时沿着 x和y轴来缩放了.
+
+image:img/0359.png[,]
 |===
 
 '''
@@ -346,3 +362,22 @@ image:img/0314.png[,]
 
 '''
 
+== 建模
+
+[.small]
+[options="autowidth" cols="1a,1a"]
+|===
+|Header 1 |Header 2
+
+|修改点线面 ctrl+ v/e/f
+|Ctrl+V：顶点操作（如合并、分离） +
+image:img/0330.png[,]
+
+Ctrl+E：边操作（如挤出、倒角） +
+image:img/0331.png[,]
+
+Ctrl+F：面操作（如填充、倒角） +
+image:img/0332.png[,]
+
+
+|===
