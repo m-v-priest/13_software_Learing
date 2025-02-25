@@ -37,7 +37,16 @@ image:img/0263.png[,70%]
 
 image:img/0319.png[,]
 
+'''
 
+==== ctrl+z 撤退步数
+
+image:img/0497.png[,]
+
+
+==== 区分建模 : 让不同物体, 用不同颜色来显示
+
+image:img/0499.png[,]
 
 
 '''
