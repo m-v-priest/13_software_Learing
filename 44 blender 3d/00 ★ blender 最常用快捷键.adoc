@@ -9,6 +9,10 @@
 '''
 == 快捷键, 网上资料
 
+官网手册 +
+https://docs.blender.org/manual/en/latest/render/shader_nodes/shader/principled.html
+
+
 https://blender.bgteach.com/Shortcut.html
 
 
@@ -222,14 +226,14 @@ image:img/0254.png[,70%]
 |将选中的物体, 移动到"游标"的坐标处
 |就选中物体，再按 shift+s,选 selection to cursor
 
-|要撤销移动(即回到最最初始婴儿诞生新建的位置, 而不是上一步的位置)
+|要撤销移动(即回到最最初始婴儿诞生新建的位置, 而不是上一步的位置) <- 即让物体来到 整个世界空间的中心.
 |按 alt+g
 |===
 
 
 '''
 
-== 旋转
+== 旋转 (强烈建议在 tab 编辑模式下来做)
 
 [.small]
 [options="autowidth" cols="1a,1a"]
@@ -276,7 +280,7 @@ image:img/0260.png[,70%]
 
 
 
-== 缩放
+== 缩放  (强烈建议在 tab 编辑模式下来做)
 
 [.small]
 [options="autowidth" cols="1a,1a"]
@@ -410,44 +414,7 @@ image:img/0314.png[,]
 
 == 建模
 
-=== 添加"点"
 
-'''
-
-
-=== 添加"线"
-
-[.small]
-[options="autowidth" cols="1a,1a"]
-|===
-|Header 1 |Header 2
-
-|添加一条"循环切割线"
-|ctrl+r +
-image:img/0411.png[,]
-
-|===
-
-
-'''
-
-=== 添加"面"
-
-[.small]
-[options="autowidth" cols="1a,1a"]
-|===
-|Header 1 |Header 2
-
-|挤出面: tab编辑模式下, 按e
-|image:img/0470.png[,]
-
-image:img/0471.png[,]
-
-image:img/0472.png[,]
-|===
-
-
-'''
 
 === 修改点线面
 

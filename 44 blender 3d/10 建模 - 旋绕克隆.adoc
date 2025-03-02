@@ -8,6 +8,8 @@
 
 '''
 
+== 旋转克隆
+
 image:img/0505.png[,]
 
 image:img/0506.png[,]
@@ -32,9 +34,7 @@ image:img/0515.png[,]
 
 
 
-https://www.bilibili.com/video/BV14u41147YH/?spm_id_from=333.788.videopod.episodes&vd_source=52c6cb2c1143f8e222795afbab2ab1b5&p=9
-
-17.16
+== 案例 : 花瓣
 
 image:img/0516.png[,]
 

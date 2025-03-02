@@ -1,0 +1,9 @@
+
+= 多选面, 移除多个面
+
+
+image:img/0544.png[,]
+
+image:img/0545.png[,]
+
+image:img/0546.png[,]
