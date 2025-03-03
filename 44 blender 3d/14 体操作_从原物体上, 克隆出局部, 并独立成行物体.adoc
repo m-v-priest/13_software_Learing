@@ -1,0 +1,11 @@
+
+= 体操做 - 从原物体上的局部, 克隆出一小块, 并独立成新物体
+
+
+image:img/0547.png[,]
+
+image:img/0548.png[,]
+
+image:img/0549.png[,]
+
+image:img/0550.png[,]
