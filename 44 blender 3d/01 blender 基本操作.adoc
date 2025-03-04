@@ -143,6 +143,22 @@ image:img/0042.png[,]
 image:img/0308.png[,]
 
 
+'''
+
+==== #无法渲染时, 报错# :  No render output node in scene
+
+
+
+image:img/0623.png[,]
+
+image:img/0627.png[,]
+
+image:img/0624.png[,]
+
+image:img/0625.png[,]
+
+image:img/0626.png[,]
+
 
 '''
 

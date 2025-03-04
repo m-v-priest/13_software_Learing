@@ -1,1 +1,31 @@
-https://www.bilibili.com/video/BV1aF411w7qs?spm_id_from=333.788.player.switch&vd_source=52c6cb2c1143f8e222795afbab2ab1b5&p=8
+
+= 贴图 - 金属拉丝效果
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: myAdocCss.css
+
+
+'''
+image:img/0603.png[,]
+
+选中一个面, 给它添加一个材质, 然后如下操作:
+
+image:img/0601.png[,]
+
+image:img/0602.png[,]
+
+image:img/0604.png[,]
+
+image:img/0605.png[,]
+
+image:img/0606.png[,]
+
+image:img/0607.png[,]
+
+image:img/0608.png[,]
+
+image:img/0609.png[,]
+
+
+
