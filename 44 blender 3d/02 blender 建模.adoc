@@ -144,28 +144,6 @@ image:img/0081.png[,]
 
 == 面操作
 
-==== ★ 补上缺失的面
-
-image:img/0336.png[,]
-
-image:img/0337.png[,]
-
-== #法线# : 决定正反面
-
-image:img/0082.png[,]
-
-image:img/0083.png[,]
-
-
-==== 翻转正反面 : shift + n
-
-image:img/0084.png[,]
-
-== 法线
-
-image:img/0085.png[,]
-
-
 == #建模#
 
 image:img/0086.png[,]

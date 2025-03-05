@@ -1,0 +1,18 @@
+
+= 物体 缩放 s
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: myAdocCss.css
+
+
+'''
+
+
+== 缩放物体 : 按 S
+
+在缩放的同时, 按 x或y或z, 就可以指定只沿着某个轴来缩放.
+
+要撤销缩放, 就按 alt+s
+
+'''

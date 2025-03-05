@@ -7,8 +7,41 @@
 
 
 '''
+== 旋转复制
 
-== 旋转克隆
+image:img/0646.png[,]
+
+image:img/0647.png[,]
+
+image:img/0648.png[,]
+
+'''
+
+== 方法2: 阵列复制 (修改器)
+
+
+image:img/0649.png[,]
+
+image:img/0650.png[,]
+
+image:img/0651.png[,]
+
+image:img/0652.png[,]
+
+image:img/0653.png[,]
+
+image:img/0654.png[,]
+
+image:img/0655.png[,]
+
+image:img/0656.png[,]
+
+image:img/0657.png[,]
+
+
+'''
+
+== 方法3: 旋转克隆
 
 image:img/0505.png[,]
 

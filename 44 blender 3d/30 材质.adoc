@@ -13,6 +13,9 @@
 https://docs.blender.org/manual/en/latest/render/shader_nodes/shader/principled.html
 
 
+image:img/0048.png[,]
+
+
 image:img/0551.png[,]
 
 image:img/0552.png[,]

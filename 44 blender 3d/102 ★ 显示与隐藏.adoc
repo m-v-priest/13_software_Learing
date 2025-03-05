@@ -1,0 +1,18 @@
+
+= 显示与隐藏
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: myAdocCss.css
+
+
+'''
+
+
+== 隐藏选中的物体 : 按 H ;  重新显示(所有被隐藏的)物体 : 按 alt+H
+
+image:img/0003.png[,]
+
+== 将没有选中的全部物体, 一次性直接隐藏 : 按 shift + H
+
+'''
