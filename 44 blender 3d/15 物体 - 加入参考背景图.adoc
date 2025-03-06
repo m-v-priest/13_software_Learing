@@ -1,0 +1,19 @@
+
+= 加入参考背景图
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: myAdocCss.css
+
+
+'''
+
+
+image:img/0026.png[,]
+image:img/0027.png[,]
+image:img/0028.png[,]
+
+image:img/0032.png[,]
+image:img/0033.png[,]
+
+

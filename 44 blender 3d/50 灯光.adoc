@@ -1,0 +1,15 @@
+
+= 灯光
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: myAdocCss.css
+
+
+'''
+
+== #灯光#
+
+image:img/0047.png[,]
+
+'''
