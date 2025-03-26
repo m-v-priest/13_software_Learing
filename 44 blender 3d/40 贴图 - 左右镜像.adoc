@@ -1,0 +1,11 @@
+
+= uv贴图 左右镜像
+
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: myAdocCss.css
+
+'''
+
+image:img/0661.png[,]

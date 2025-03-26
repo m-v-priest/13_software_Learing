@@ -1,0 +1,15 @@
+
+= blender 显示物体尺寸
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: myAdocCss.css
+
+'''
+
+image:img/0658.png[,]
+
+image:img/0659.png[,]
+
+
+
