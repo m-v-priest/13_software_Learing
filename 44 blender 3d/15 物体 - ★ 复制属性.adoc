@@ -1,0 +1,22 @@
+
+= 复制物体属性, 给另一个物体
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: myAdocCss.css
+
+
+'''
+
+
+image:img/0674.png[,]
+
+image:img/0675.png[,]
+
+image:img/0676.png[,]
+
+image:img/0677.png[,]
+
+image:img/0678.png[,]
+
+
