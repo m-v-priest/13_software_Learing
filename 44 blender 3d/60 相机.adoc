@@ -53,8 +53,41 @@ image:img/0275.png[,]
 ==== ★ 一次性渲染多个摄像机视图
 
 
+image:img/0666.png[,]
+
+image:img/0667.png[,]
+
+image:img/0668.png[,]
+
+image:img/0669.png[,]
+
+image:img/0670.png[,]
+
+image:img/0671.png[,]
+
+image:img/0672.png[,]
+
+image:img/0673.png[,]
 
 
 
+
+
+'''
+
+==== ★★ 将当前视图, 直接指定为某一个相机的取景视图 -> ctrl + alt + 0
+
+
+image:img/0662.png[,]
+
+image:img/0663.png[,]
+
+image:img/0664.png[,]
+
+image:img/0665.png[,]
+
+然后按 0 退出相机取景设置.
+
+注意: 你有多个相机时, 要预览各个相机的取景角度时, 也必须按 0 数字键后, 才能看到!
 
 '''
