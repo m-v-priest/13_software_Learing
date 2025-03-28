@@ -1,0 +1,16 @@
+
+= 将多个物体, 批量替换成目标物体
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: myAdocCss.css
+
+
+'''
+
+即, 黑客帝国中的 smith, 将矩阵中的所有人, 都替换成自己.
+
+image:img/0701.png[,]
+
+image:img/0702.png[,]
+

@@ -1,0 +1,26 @@
+
+= 旋转视图
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: myAdocCss.css
+
+
+'''
+
+旋转视图, 可以按3种中心点来旋转
+
+== 以视图中心, 来旋转
+
+
+== 以选中的物体为中心, 来旋转
+
+image:img/0680.png[,]
+
+image:img/0681.png[,]
+
+
+
+== 以游标点为中心, 来旋转
+
+image:img/0679.png[,]

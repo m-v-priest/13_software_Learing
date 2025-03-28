@@ -91,3 +91,27 @@ image:img/0665.png[,]
 注意: 你有多个相机时, 要预览各个相机的取景角度时, 也必须按 0 数字键后, 才能看到!
 
 '''
+
+
+== ★ 让相机, 始终围绕一个物体拍摄(即永远自动只盯着它看, 我的眼里只有你)
+
+
+image:img/0691.png[,]
+
+
+image:img/0692.png[,]
+
+image:img/0693.png[,]
+
+image:img/0694.png[,]
+
+image:img/0695.png[,]
+
+image:img/0696.png[,]
+
+image:img/0697.png[,]
+
+'''
+
+
+

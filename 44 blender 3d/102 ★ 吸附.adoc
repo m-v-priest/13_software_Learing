@@ -30,3 +30,34 @@ image:img/0246.png[,]
 image:img/0247.png[,]
 
 '''
+
+== 吸附到"另一个物体的顶点"处
+
+image:img/0682.png[,]
+
+image:img/0683.png[,]
+
+image:img/0684.png[,]
+
+image:img/0685.png[,]
+
+
+'''
+
+== 吸附到"另一个物体的边的中间点"处
+
+
+image:img/0686.png[,]
+
+'''
+
+== a物体的中心点(注意不是轮廓面), 吸附到b物体的面上
+
+image:img/0687.png[,]
+
+image:img/0688.png[,]
+
+'''
+
+
+
