@@ -1,0 +1,24 @@
+
+= ai 对齐
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: myAdocCss.css
+
+'''
+
+image:img/0171.png[,]
+
+image:img/0172.png[,]
+
+image:img/0173.png[,]
+
+image:img/0174.png[,]
+
+image:img/0175.png[,]
+
+image:img/0176.png[,]
+
+image:img/0177.png[,]
+
+

@@ -1,0 +1,21 @@
+
+= ai 间距
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: myAdocCss.css
+
+'''
+
+== 肩并肩贴紧
+
+image:img/0188.png[,]
+
+image:img/0189.png[,]
+
+image:img/0190.png[,]
+
+image:img/0191.png[,]
+
+'''
+

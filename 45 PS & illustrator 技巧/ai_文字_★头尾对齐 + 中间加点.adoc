@@ -1,0 +1,39 @@
+
+= ai 文字, 头尾对齐
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: myAdocCss.css
+
+'''
+== 文字两端对齐
+
+
+image:img/0184.png[,]
+
+image:img/0185.png[,]
+
+image:img/0186.png[,]
+
+image:img/0187.png[,]
+
+
+
+
+'''
+
+== 菜单对齐效果
+
+image:img/0178.png[,]
+
+image:img/0179.png[,]
+
+image:img/0180.png[,]
+
+image:img/0181.png[,]
+
+image:img/0182.png[,]
+
+image:img/0183.png[,]
+
+
