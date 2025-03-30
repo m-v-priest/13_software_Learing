@@ -1,0 +1,81 @@
+
+
+= 材质 - 玻璃
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: myAdocCss.css
+
+
+'''
+
+== 玻璃材质效果
+
+image:img/0714.png[,]
+
+image:img/0715.png[,]
+
+image:img/0716.png[,]
+
+image:img/0717.png[,]
+
+image:img/0718.png[,]
+
+image:img/0719.png[,]
+
+image:img/0720.png[,]
+
+
+
+
+
+'''
+
+== 让在 eevee 渲染引擎下,也能看到  玻璃材质 效果
+
+image:img/0721.png[,]
+
+image:img/0722.png[,]
+
+image:img/0723.png[,]
+
+image:img/0724.png[,]
+
+
+'''
+
+== 让玻璃有色散效果
+
+image:img/0727.png[,]
+
+image:img/0728.png[,]
+
+image:img/0729.png[,]
+
+image:img/0730.png[,]
+
+image:img/0731.png[,]
+
+image:img/0732.png[,]
+
+image:img/0733.png[,]
+
+image:img/0734.png[,]
+
+image:img/0735.png[,]
+
+image:img/0736.png[,]
+
+image:img/0737.png[,]
+
+image:img/0738.png[,]
+
+image:img/0739.png[,]
+
+image:img/0740.png[,]
+
+image:img/0741.png[,]
+
+image:img/0742.png[,]
+
+'''

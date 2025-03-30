@@ -9,6 +9,8 @@
 '''
 == 查看法线
 
+一般如果你发现, 阴影很奇怪的话, 一种可能就是法线出错了, 即面的正反颠倒了.
+
 image:img/0085.png[,]
 
 '''
@@ -19,11 +21,34 @@ image:img/0082.png[,]
 
 image:img/0083.png[,]
 
+image:img/0745.png[,]
+
 '''
 
-== 翻转正反面 : shift + n
+== 翻转正反面 : alt + n + 回车 (即选 flip)
 
 image:img/0084.png[,]
 
 
+image:img/0747.png[,]
+
+image:img/0746.png[,]
+
+
+== 翻转法线, 方法2:
+
+按a, 全选网格后, 再按 shift+n, 重新自动计算法线方向
+
+image:img/0748.png[,]
+
+
 '''
+
+== 调整面的法线到正确后, 阴影还是有问题, 可以试试这个方法
+
+image:img/0749.png[,]
+
+image:img/0750.png[,]
+
+
+
