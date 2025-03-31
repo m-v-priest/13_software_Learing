@@ -14,6 +14,27 @@
 
 image:img/0042.png[,]
 
+
+'''
+
+== ★ #只渲染选中的方框区域 -> ctrl + b#  , 要恢复原样时, 按 ctrl + alt + b
+
+image:img/0753.png[,]
+
+image:img/0754.png[,]
+
+image:img/0757.png[,]
+
+image:img/0755.png[,]
+
+image:img/0756.png[,]
+
+
+
+
+'''
+
+
 == 渲染后画面发灰的问题
 
 image:img/0308.png[,]

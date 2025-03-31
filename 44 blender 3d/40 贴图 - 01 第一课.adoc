@@ -42,6 +42,24 @@ image:img/0579.png[,]
 
 image:img/0580.png[,]
 
+'''
+
+== ★ 快速将贴图的大小, 匹配到你物体表面的大小
+
+image:img/0758.png[,]
+
+image:img/0759.png[,]
+
+image:img/0760.png[,]
+
+
+
+
+
+
+
+
+'''
 
 == 调节贴图的明暗度
 
