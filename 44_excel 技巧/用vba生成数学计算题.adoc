@@ -184,7 +184,7 @@ Sub GenerateMathProblems()
 
         ' 格式设置
         .Columns("A:F").ColumnWidth = 25
-        .Rows("3:22").RowHeight = 28.5
+        .Rows("3:22").RowHeight = 23
         .Range("A3:F22").Font.Size = 14
         .Range("A3:F22").HorizontalAlignment = xlLeft
 
@@ -209,6 +209,7 @@ End Sub
 Private Sub Workbook_Open()
     Application.OnKey "{F9}", "GenerateMathProblems"
 End Sub
+
 ....
 
 
