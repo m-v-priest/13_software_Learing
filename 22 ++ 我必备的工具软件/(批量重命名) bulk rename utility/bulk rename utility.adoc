@@ -1,0 +1,10 @@
+
+= (批量重命名) bulk rename utility
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: myAdocCss.css
+
+'''
+
+image:/img/001.png[,%]

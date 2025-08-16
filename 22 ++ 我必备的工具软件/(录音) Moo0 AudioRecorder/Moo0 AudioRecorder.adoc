@@ -1,0 +1,11 @@
+
+= (录音) Moo0 AudioRecorder
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: myAdocCss.css
+
+'''
+
+image:/img/001.png[,]
+

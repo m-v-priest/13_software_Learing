@@ -1,0 +1,12 @@
+
+= (视频硬字幕提取) 望言OCR
+
+:toc: left
+:toclevels: 3
+:sectnums:
+:stylesheet: myAdocCss.css
+
+'''
+
+
+image:/img/001.png[,]
